@@ -26,7 +26,10 @@
 * [PREPROCESS UNSTRUCTURED DATA FOR LLM APPS](https://www.coursera.org/projects/preprocessing-unstructured-data-for-llm-applications)
 * [BUILDING MULTIMODAL SEARCH WITH RAGS](https://www.coursera.org/projects/building-multimodal-search-and-rag)
 * [EFFICIENTLY SERVING LLMS](https://www.coursera.org/projects/efficiently-serving-llms)
-  
+
+### [Trelis Research](https://www.youtube.com/@TrelisResearch/videos)
+
+
 ### [Mervin Praison](https://www.youtube.com/@MervinPraison/videos)
 #### Playlists
 * [FINETUNE CLOSED LLMS](https://www.youtube.com/playlist?list=PLYQsp-tXX9w5V4TetD4vAifPmUxMgnQHv)
@@ -137,6 +140,7 @@
 * [COMP VIS MODEL EVAL](https://www.youtube.com/watch?v=nbCY93BMw0U)
 * [PALIGEMMA FINE TUNE](https://www.youtube.com/watch?v=OMBmVInx68M&t=11s)
 * [FAST SAM](https://www.youtube.com/watch?v=yHNPyqazYYU)
+  
 
 <h2> Independent Videos on Important Topics </h2>
 

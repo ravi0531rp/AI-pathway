@@ -1,10 +1,10 @@
 <h1> PYTHON LANGUAGE </h1>
 
 ## LANGUAGE
-* [PYTHON OOPS; FREECODECAMP ✅](https://www.youtube.com/watch?v=Ej_02ICOIgs) 
-* [COLLECTIONS AND HEAP; PYTHON ENGINEER ✅](https://www.youtube.com/watch?v=UdcPhnNjSEw)
-* [HEAPQ, COLLECTIONS AND HEAP; AM ACADEMY ✅](https://www.youtube.com/watch?v=58cYFs_W2_s)
-* [DATA CLASSES ✅](https://www.youtube.com/watch?v=ojrbuVKblew)
+* [PYTHON OOPS; FREECODECAMP](https://www.youtube.com/watch?v=Ej_02ICOIgs) 
+* [COLLECTIONS AND HEAP; PYTHON ENGINEER](https://www.youtube.com/watch?v=UdcPhnNjSEw)
+* [HEAPQ, COLLECTIONS AND HEAP; AM ACADEMY](https://www.youtube.com/watch?v=58cYFs_W2_s)
+* [DATA CLASSES](https://www.youtube.com/watch?v=ojrbuVKblew)
 * [PYDANTIC BASICS](https://www.youtube.com/watch?v=Nlhp4EmE55I)
 * [PYDANTIC ADVANCED](https://www.youtube.com/watch?v=gb3arRysqMo)
 * [POETRY PACKAGE MANAGEMENT](https://www.youtube.com/watch?v=Ib7fNOIGM7E)
@@ -54,4 +54,4 @@
 * [REGEX; INDIAN PYTHONISTA](https://www.youtube.com/watch?v=xp1vX15inBg&list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 
 ## DP
-* [DYNAMIC PROGRAMMING CS DOJO ✅](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
+* [DYNAMIC PROGRAMMING CS DOJO](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)

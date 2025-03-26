@@ -1,4 +1,4 @@
-## [Sam Witteveen](https://www.youtube.com/@TrelisResearch/videos)
+## [Sam Witteveen](https://www.youtube.com/@samwitteveenai/videos)
 
 
 ### LLMs Discussion

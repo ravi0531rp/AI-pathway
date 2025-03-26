@@ -1,7 +1,7 @@
 ## [Adam Lucek](https://www.youtube.com/@AdamLucek/videos)
 
 ### AI Tools
-* [Flux AI Image Generator - You own clown](https://www.youtube.com/watch?v=Drw6tnvtA5I)
+* [Flux AI Image Generator - You own clone](https://www.youtube.com/watch?v=Drw6tnvtA5I)
 
 ### LLM Discussions
 * [Multimodal Models with Text/Image](https://www.youtube.com/watch?v=pOohatefr5o)

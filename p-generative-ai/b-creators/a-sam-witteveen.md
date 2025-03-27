@@ -2,7 +2,7 @@
 
 
 ### LLMs Discussion
-* [Gemini 2.5 - Thinking Family](https://www.youtube.com/watch?v=B3wLYDl2SmQ)
+* [Gemini 2.5 - Thinking Family ✅](https://www.youtube.com/watch?v=B3wLYDl2SmQ)
 * [Phi4 Multimodality](https://www.youtube.com/watch?v=qAgAQQ41P3A)
 * [Qwen QwQ 32b - Best Local Reasoning Model](https://www.youtube.com/watch?v=oU0_vc1YT0k)
 * [Gemma 3](https://www.youtube.com/watch?v=vhXeKAMM__o)
@@ -25,7 +25,7 @@
 * [OpenAI Agent Tools](https://www.youtube.com/watch?v=RPbmMmcNvYA)
 * [Pydantic Agents](https://www.youtube.com/watch?v=UnH7S5044GA)
 * [Pydantic Research Agent](https://www.youtube.com/watch?v=MkqkiJgnDxk)
-* [AI Clicks right buttons - VVI](https://www.youtube.com/watch?v=vnf7pPd4CEM)
+* [AI Clicks right buttons - OmniParser ✅](https://www.youtube.com/watch?v=vnf7pPd4CEM)
 * [Smol Agents](https://www.youtube.com/watch?v=c8EpB4zmXG0)
 * [SmolAgents Multiagent](https://www.youtube.com/watch?v=XHijkFRd2TU)
 

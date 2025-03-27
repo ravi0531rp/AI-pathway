@@ -1,4 +1,4 @@
-## []()
+## [Discover AI](https://www.youtube.com/@code4AI/videos)
 
 
 ### LLMs : Theory
@@ -8,6 +8,7 @@
 * [Meta Reinforcement vs GRPO](https://www.youtube.com/watch?v=Eh1xxtcNqrA)
 * [COT to SOT](https://www.youtube.com/watch?v=-JiUyJVPM3Q)
 * [Topological AI for Reasoning](https://www.youtube.com/watch?v=14yPeonB2P4)
+* [Deepseek V3 R2 - Single Task 2025](https://www.youtube.com/watch?v=TxtSD8DDqKk)
 
 
 ### Agents

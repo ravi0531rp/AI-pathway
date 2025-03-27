@@ -38,3 +38,4 @@
 * [Swarm : Multi agent orchestration](https://www.youtube.com/watch?v=_1pqcEW6Hys)
 * [Mixture of Agents](https://www.youtube.com/watch?v=-aTSjk2rPy8)
 * [AgentOps](https://www.youtube.com/watch?v=GjNf3Zvjofc)
+* [AI Agents Bootcamp 2025](https://www.youtube.com/watch?v=HlvlTCG6mp4&list=PLrSHiQgy4VjGG6wvPyIPoBnH2iqjtLY68)

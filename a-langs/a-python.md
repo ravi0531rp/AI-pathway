@@ -9,9 +9,9 @@
 * [PYDANTIC ADVANCED](https://www.youtube.com/watch?v=gb3arRysqMo)
 * [POETRY PACKAGE MANAGEMENT](https://www.youtube.com/watch?v=Ib7fNOIGM7E)
 
-### DESIGN PATTERNS
-* [DESIGN PATTERNS IN PYTHON](https://www.udemy.com/course/design-patterns-in-python)
-
+### DESIGN PATTERNS AND SYSTEM DESIGN
+* [DESIGN PATTERNS IN PYTHON](https://www.udemy.com/course/design-pattern-in-python-with-real-world-examples)
+* [SYSTEM DESIGN](https://www.udemy.com/course/system-design-masterclass)
 
 ### TOOLS AND LIBS
 * [FUNCTIONAL PROGRAMMING; REAL PYTHON](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)

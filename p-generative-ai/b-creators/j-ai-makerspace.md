@@ -28,6 +28,7 @@
 * [Domain Specific Fine Tuning](https://www.youtube.com/watch?v=0QaUqoICNBo)
 * [Multimodal vision models](https://www.youtube.com/watch?v=PQRXOs1FtDs)
 * [RAG Evaluations](https://www.youtube.com/watch?v=bB56BaQIBm4)
+* [RAG Best Practices : 2025](https://www.youtube.com/watch?v=vf9emNxXWdA)
 
 ### Agents
 * [Pydantic AI](https://www.youtube.com/watch?v=mkq2tG8_Q8Q)

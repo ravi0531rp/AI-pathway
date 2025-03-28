@@ -52,3 +52,6 @@
 * [PYTHON REGULAR EXPRESSIONS (REGEX) WITH PROJECTS](https://www.udemy.com/course/python-regular-expressions/)
 * [PYTHON REGULAR EXPRESSIONS COMPLETE MASTERCLASS](https://www.udemy.com/course/python-regex/)
 * [REGEX; INDIAN PYTHONISTA](https://www.youtube.com/watch?v=xp1vX15inBg&list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
+
+## TESTING
+* [PYTHON AUTOMATION TESTING WITH PYTEST](https://www.udemy.com/course/python-automation-pytest/)

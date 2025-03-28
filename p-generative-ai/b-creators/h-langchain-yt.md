@@ -32,3 +32,4 @@
 * [Build Effective Agents with Langgraph](https://www.youtube.com/watch?v=aHCDrAbH_go)
 * [Computer Use Agents](https://www.youtube.com/watch?v=ndCFqT6xFQ4&pp=0gcJCb0Ag7Wk3p_U)
 * [Swarm of agents](https://www.youtube.com/watch?v=JeyDrn1dSUQ)
+* [BigTool - Handle too many tools for an Agent✅](https://www.youtube.com/watch?v=3ISRS2hQlfI&t=209s)

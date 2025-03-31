@@ -9,3 +9,4 @@
 * [Orpheus Local TTS](https://www.youtube.com/watch?v=otgzoKHdYpA)
 * [Sesame CSM 1B Voice Clone](https://www.youtube.com/watch?v=220XKBzIp2U)
 * [Run a Local LLM across multiple computers](https://www.youtube.com/watch?v=ITbB9nPCX04)
+* [ByteDance MegaTTS locally](https://www.youtube.com/watch?v=kuD_By2kQws)

@@ -8,6 +8,7 @@
 * [Inference Service at Scale for LLMs](https://www.youtube.com/watch?v=5i_LyrjFm7I)
 * [Monte carlo tree Search for LLMs](https://www.youtube.com/watch?v=mfAV_bigdRA)
 * [PII handling with LLMs](https://www.youtube.com/watch?v=7NrzPuICLtg)
+* [Qwen 2.5 Multimodal](https://www.youtube.com/watch?v=b9LXwZuRbTU)
 
 ### LLMs Practicals
 * [Automated prompt Engineering with DsPY](https://www.youtube.com/watch?v=0gYMqFYRtDI)

@@ -40,3 +40,4 @@
 * [Mixture of Agents](https://www.youtube.com/watch?v=-aTSjk2rPy8)
 * [AgentOps](https://www.youtube.com/watch?v=GjNf3Zvjofc)
 * [AI Agents Bootcamp 2025](https://www.youtube.com/watch?v=HlvlTCG6mp4&list=PLrSHiQgy4VjGG6wvPyIPoBnH2iqjtLY68)
+* [Enterprise Agents with OpenAI](https://www.youtube.com/watch?v=OW2JazEv5hQ)

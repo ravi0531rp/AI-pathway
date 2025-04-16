@@ -18,6 +18,7 @@
 * [Test Time Compute 1 - Sampling & Chain of thought](https://www.youtube.com/watch?v=qJoy8U27NPo)
 * [Test Time Compute 2 - Verifiers](https://www.youtube.com/watch?v=MvaUcc0mNOU)
 * [Distillation Of LLMs](https://www.youtube.com/watch?v=tf60owmwR-c)
+* [Custom Benchmarks](https://www.youtube.com/watch?v=cO_MA1JjCZ0)
 
 
 ### LLM Fine Tuning

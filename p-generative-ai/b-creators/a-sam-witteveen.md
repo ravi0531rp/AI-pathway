@@ -18,6 +18,8 @@
 * [Deepseek R1 with Structured agents](https://www.youtube.com/watch?v=LQPYWW3gqkQ)
 * [Kokoro Locall TTS + Voice Cloning](https://www.youtube.com/watch?v=tl1wvZXlj0I)
 * [Vision app with ollama structured o/p](https://www.youtube.com/watch?v=4Mya8AsZDUo)
+* [Gemini 2.5 for Youtube Analysis](https://www.youtube.com/watch?v=pFpxpAMqSmU&pp=0gcJCX4JAYcqIYzv)
+* [Gemini 2.5 for Audio](https://www.youtube.com/watch?v=LMhe2egLsrQ)
 
 ### Agents
 * [Agents Secret Sauce](https://www.youtube.com/watch?v=MRYqhbtLTmM)

@@ -11,6 +11,7 @@
 * [Deepseek V3 R2 - Single Task 2025](https://www.youtube.com/watch?v=TxtSD8DDqKk)
 * [Solution to Overthinking in Reasoning Models](https://www.youtube.com/watch?v=4QnDrX6c96E)
 * [Failure of AI Visual Learning in VLMs](https://www.youtube.com/watch?v=vRsAFFvKqhI)
+* [O3 Reasoning](https://www.youtube.com/watch?v=VGcJct8zNU0&pp=0gcJCX4JAYcqIYzv)
 
 ### Agents
 * [AI Agents Network Chaos](https://www.youtube.com/watch?v=rNjNANKvAoE)

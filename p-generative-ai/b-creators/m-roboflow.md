@@ -14,6 +14,7 @@
 
 ### Pure Vision
 * [RF DETR](https://www.youtube.com/watch?v=Mlcap4KGddg)
+* [RF DETR - Batch processing and Inference](https://www.youtube.com/watch?v=ZJU8PCgYiHk&pp=0gcJCX4JAYcqIYzv)
 * [Yolov12 Training](https://www.youtube.com/watch?v=fksJmIMIfXo)
 * [Manage Edge devices for vision](https://www.youtube.com/watch?v=-sz1ghKPcmA&pp=0gcJCb0Ag7Wk3p_U)
 * [RTSP Stream and analysis](https://www.youtube.com/watch?v=VCbcC5OEGRU)

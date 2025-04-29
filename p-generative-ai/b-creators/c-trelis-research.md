@@ -19,6 +19,7 @@
 * [Test Time Compute 2 - Verifiers](https://www.youtube.com/watch?v=MvaUcc0mNOU)
 * [Distillation Of LLMs](https://www.youtube.com/watch?v=tf60owmwR-c)
 * [Custom Benchmarks](https://www.youtube.com/watch?v=cO_MA1JjCZ0)
+* [Preparing LLM Finetuning Data : Expert ADvice](https://www.youtube.com/watch?v=HNpYAz_I4yY)
 
 
 ### LLM Fine Tuning

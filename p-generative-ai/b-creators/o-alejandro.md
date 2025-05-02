@@ -3,6 +3,7 @@
 ### Agents
 * [MCP Servers with Python](https://www.youtube.com/watch?v=Ek8JHgZtmcI)
 * [ReACT agent from Scratch](https://www.youtube.com/watch?v=hKVhRA9kfeM&pp=0gcJCb0Ag7Wk3p_U)
+* [MCP with Flask](https://www.youtube.com/watch?v=mhdGVbJBswA)
 
 ### RAG
 * [Advanced RAG with Llamaindex metadata extraction](https://www.youtube.com/watch?v=yzPQaNhuVGU)

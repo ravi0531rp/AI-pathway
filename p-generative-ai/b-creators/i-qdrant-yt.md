@@ -11,6 +11,7 @@
 * [Discovery API](https://www.youtube.com/watch?v=NJO9h6ZYkik)
 * [Qdrant Cloud](https://www.youtube.com/watch?v=BF02jULGCfo)
 * [GPU accelerated HNSW](https://www.youtube.com/watch?v=HkVhWvaUfoQ)
+* [New in Qdrant 1.14](https://www.youtube.com/watch?v=nBqlqR8yM4Y)
 
 ### RAG
 * [Finding the correct Embedding Model](https://www.youtube.com/watch?v=ZUIAmtribPo)
@@ -24,6 +25,7 @@
 ### Agents
 * [CrewAI and Qdrant](https://www.youtube.com/watch?v=soGB3UowTZ0)
 * [N8N and Qdrant](https://www.youtube.com/watch?v=_BQTnXpuH-E)
+* [Qdrant + MCP](https://www.youtube.com/watch?v=mZK2a_4jgwo)
 
 ### LLM and Embeddings
 * [Fine Tune Embeddings](https://www.youtube.com/watch?v=iiNZdbeP3n4)

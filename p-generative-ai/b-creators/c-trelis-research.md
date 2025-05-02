@@ -10,6 +10,7 @@
 * [PII handling with LLMs](https://www.youtube.com/watch?v=7NrzPuICLtg)
 * [Qwen 2.5 Multimodal](https://www.youtube.com/watch?v=b9LXwZuRbTU)
 
+
 ### LLMs Practicals
 * [Automated prompt Engineering with DsPY](https://www.youtube.com/watch?v=0gYMqFYRtDI)
 * [LLM Evals 1](https://www.youtube.com/watch?v=HgUnv_c6gOM)
@@ -20,6 +21,7 @@
 * [Distillation Of LLMs](https://www.youtube.com/watch?v=tf60owmwR-c)
 * [Custom Benchmarks](https://www.youtube.com/watch?v=cO_MA1JjCZ0)
 * [Preparing LLM Finetuning Data : Expert ADvice](https://www.youtube.com/watch?v=HNpYAz_I4yY)
+* [Test Time Training](https://www.youtube.com/watch?v=GbCgyY1laDU)
 
 
 ### LLM Fine Tuning
@@ -42,7 +44,7 @@
 ### AI Tools
 * [Video Avatars](https://www.youtube.com/watch?v=fmTIN1PzNaY)
 
-### Speech based Models
+### Speech-based Models
 * [Fine Tune Text to Speech - 2025](https://www.youtube.com/watch?v=vfe8KIm1ubw)
 * [Diarization and Turn Detection](https://www.youtube.com/watch?v=xWhI8RkRSGQ)
 

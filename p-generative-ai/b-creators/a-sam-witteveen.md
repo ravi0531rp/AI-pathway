@@ -11,6 +11,7 @@
 * [Mistral Small 3](https://www.youtube.com/watch?v=nCXTdcggwkM)
 * [Deepseek R1 full breakdown](https://www.youtube.com/watch?v=gzZihJ5miZE)
 * [Gemini Thinking](https://www.youtube.com/watch?v=podMF0FNJac)
+* [Phi4 Reasoning](https://www.youtube.com/watch?v=H9DQVWnvmao)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)

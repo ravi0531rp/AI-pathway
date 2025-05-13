@@ -10,10 +10,6 @@
 * [Pydantic Advanced](https://www.youtube.com/watch?v=gb3arRysqMo)
 * [Poetry Package Management](https://www.youtube.com/watch?v=Ib7fNOIGM7E)
 
-### Design Patterns and System Design
-* [Design Patterns in Python](https://www.udemy.com/course/design-pattern-in-python-with-real-world-examples)
-* [System Design](https://www.udemy.com/course/system-design-masterclass)
-
 ### Tools and Libs
 * [Functional Programming; Real Python](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)
 * [Iterators; Corey Schafer](https://www.youtube.com/watch?v=jTYiNjvnHZY)
@@ -59,3 +55,8 @@
 
 ## Python Dev to Prod
 * [Python to Prod](https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development)
+
+### Python OOPS, SOLID and Design Patterns
+* [Python Top Design Patterns](https://www.udemy.com/course/python-solid-principles-and-top-design-patterns/?kw=Python+solid&src=sac)
+* [Python Design Patterns](https://www.udemy.com/course-dashboard-redirect/?course_id=5540440)
+

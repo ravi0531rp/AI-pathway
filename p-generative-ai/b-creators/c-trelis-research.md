@@ -22,6 +22,7 @@
 * [Custom Benchmarks](https://www.youtube.com/watch?v=cO_MA1JjCZ0)
 * [Preparing LLM Finetuning Data : Expert ADvice](https://www.youtube.com/watch?v=HNpYAz_I4yY)
 * [Test Time Training](https://www.youtube.com/watch?v=GbCgyY1laDU)
+* [GPU vs TPU](https://www.youtube.com/watch?v=br8hkcZ1YV0)
 
 
 ### LLM Fine Tuning
@@ -34,6 +35,7 @@
 * [Multimodal Audio Text Fine Tuning Qwen](https://www.youtube.com/watch?v=Be8BM3wNNc0)
 * [Fine Tune Florence2](https://www.youtube.com/watch?v=2OyN-N36-E8&pp=0gcJCb0Ag7Wk3p_U)
 * [OpenAI Finetuning vs Distillation](https://www.youtube.com/watch?v=_4vWduu9Zj8)
+* [Fine Tuning Gemma and Mistral](https://www.youtube.com/watch?v=Ik6nbAjxLk4)
 
 
 ### Inference
@@ -60,3 +62,5 @@
 * [Memory Management in Agents](https://www.youtube.com/watch?v=-sRvcGURDbQ)
 * [Document Reading Agents with Read Write Memory](https://www.youtube.com/watch?v=FN6U5D7ZsLA)
 * [Sandbox for Agents to code](https://www.youtube.com/watch?v=bm6jegefGyY)
+* [Qwen3 and MCP](https://www.youtube.com/watch?v=mbKaCQ2N6Iw)
+  

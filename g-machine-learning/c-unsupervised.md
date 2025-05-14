@@ -9,3 +9,10 @@
 
 ### Contrastive
 * [Contrastive Learning](https://www.youtube.com/watch?v=u-X_nZRsn5M&list=PLV8yxwGOxvvreie4ioSYlfg1md4_OJz-q)
+
+### Self-Supervised
+* [Self-Supervised Learning A-Z](https://www.udemy.com/course/self-supervised-learning/)
+
+### Bayesian
+* [Bayesian ML with A/B testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/)
+* [A/B testing in Python](https://www.udemy.com/course/ab-testing-in-python/)

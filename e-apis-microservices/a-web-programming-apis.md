@@ -9,5 +9,8 @@
 * [The Complete Microservices and Event Driven Architecture](https://www.udemy.com/course/the-complete-microservices-event-driven-architecture/)
 * [The Complete Cloud Computing Software Architecture Patterns](https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/)
 
-## Kafka
+### Kafka
 * [Kafka with Python YT](https://www.youtube.com/watch?v=c6GW9KalwvA&list=PLaNsxqNgctlO5wIfkJhnrXbdUlqxTNoZ5)
+
+### Serverless
+* [AWS lambda Bootcamp](https://www.udemy.com/course/aws-lambda-serverless-architecture/)

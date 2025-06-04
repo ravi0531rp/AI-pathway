@@ -13,16 +13,17 @@
 * [Synthetic Data](https://www.youtube.com/watch?v=L1lWxeW4o6c)
 * [AI Alignment](https://www.youtube.com/watch?v=saddiaejp0s)
 * [Fine Tune LLMs for Reasoning](https://www.youtube.com/watch?v=dGoxEpoacy0)
-* [Program LLMs with DSpy instead Prompt Engg](https://www.youtube.com/watch?v=Zv4LjO8teqE)
+* [Program LLMs with DSpy instead of Prompt Engg](https://www.youtube.com/watch?v=Zv4LjO8teqE)
 * [Scaling Test Time Compute](https://www.youtube.com/watch?v=QWoslkjR9W4)
 
 ### RAG
 * [Vector Databases in Depth with Code](https://www.youtube.com/watch?v=NMfArmQ27m4)
 * [Fine Tune Embeddings for RAG](https://www.youtube.com/watch?v=v28Pu7hsJ0s)
-* [Does Embedding Fine tuning work](https://www.youtube.com/watch?v=hztWQcoUbt0)
+* [Does Embedding Fine-tuning work](https://www.youtube.com/watch?v=hztWQcoUbt0)
 * [Best RAG Strategies with Domain Specific Evals](https://www.youtube.com/watch?v=wZ2DXaSIm4g)
 * [Knowledge Graphs vs Vector DBs](https://www.youtube.com/watch?v=6vG_amAshTk)
 * [Best Chunking strategies for RAG](https://www.youtube.com/watch?v=Pk2BeaGbcTE&pp=0gcJCb0Ag7Wk3p_U)
+* [Static Embeddings with Distillation](https://www.youtube.com/watch?v=Lh4xfj9Xnzk)
 
 ### Agents
 * [MCP Discussion](https://www.youtube.com/watch?v=nMKYW0DiRp4&pp=0gcJCb0Ag7Wk3p_U)

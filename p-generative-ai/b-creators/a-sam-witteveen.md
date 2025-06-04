@@ -12,6 +12,7 @@
 * [Deepseek R1 full breakdown](https://www.youtube.com/watch?v=gzZihJ5miZE)
 * [Gemini Thinking](https://www.youtube.com/watch?v=podMF0FNJac)
 * [Phi4 Reasoning ✅](https://www.youtube.com/watch?v=H9DQVWnvmao)
+* [MedGemma](https://www.youtube.com/watch?v=ZbpnqpCifSY&t=12s)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)

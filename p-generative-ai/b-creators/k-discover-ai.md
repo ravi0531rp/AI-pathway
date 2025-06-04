@@ -36,3 +36,4 @@
 * [Graph based RAG](https://www.youtube.com/watch?v=aPsfAkrkma0)
 * [Risk Aware RAG](https://www.youtube.com/watch?v=NeN1tX0rpzE)
 * [Security Breach with RAG](https://www.youtube.com/watch?v=_yWXqKX7-gA)
+* [All RAG methods](https://www.youtube.com/watch?v=cHVQj7w9TD4)

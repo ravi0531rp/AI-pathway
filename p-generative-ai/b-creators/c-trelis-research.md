@@ -6,7 +6,7 @@
 * [Best Vision Models](https://www.youtube.com/watch?v=f-nF-48rDIM&t=1067s)
 * [Run Distilled Deepseek v3 reasoning](https://www.youtube.com/watch?v=9FBt_AVCHBs)
 * [Inference Service at Scale for LLMs](https://www.youtube.com/watch?v=5i_LyrjFm7I)
-* [Monte carlo tree Search for LLMs](https://www.youtube.com/watch?v=mfAV_bigdRA)
+* [Monte Carlo Tree Search for LLMs](https://www.youtube.com/watch?v=mfAV_bigdRA)
 * [PII handling with LLMs](https://www.youtube.com/watch?v=7NrzPuICLtg)
 * [Qwen 2.5 Multimodal](https://www.youtube.com/watch?v=b9LXwZuRbTU)
 
@@ -27,7 +27,7 @@
 
 ### LLM Fine Tuning
 * [Fine Tuning Tips](https://www.youtube.com/watch?v=lJDxkjE9SSY)
-* [Train a self Correcting LLM with backtracking](https://www.youtube.com/watch?v=mN6O-9Ucl9c)
+* [Train a self-correcting LLM with backtracking](https://www.youtube.com/watch?v=mN6O-9Ucl9c)
 * [Flux Diffusion Models for image](https://www.youtube.com/watch?v=ThKYjTdkyP8)
 * [RL for LLMs](https://www.youtube.com/watch?v=C4HxJQ2QzWo)
 * [SFT vs GRPO](https://www.youtube.com/watch?v=CsqYlV8X8og)
@@ -63,4 +63,6 @@
 * [Document Reading Agents with Read Write Memory](https://www.youtube.com/watch?v=FN6U5D7ZsLA)
 * [Sandbox for Agents to code](https://www.youtube.com/watch?v=bm6jegefGyY)
 * [Qwen3 and MCP](https://www.youtube.com/watch?v=mbKaCQ2N6Iw)
-  
+
+### Transformers Applications
+* [Time Series](https://www.youtube.com/watch?v=P5T-ytvbj50&t=24s)

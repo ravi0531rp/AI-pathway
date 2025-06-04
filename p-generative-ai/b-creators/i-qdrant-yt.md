@@ -35,3 +35,4 @@
 * [Music Recommendations](https://www.youtube.com/watch?v=id5ql-Abq4Y)
 * [Video Recommendations](https://www.youtube.com/watch?v=z_0VjMZ2JY0)
 * [Movie Recommendations](https://www.youtube.com/watch?v=O5mT8M7rqQQ)
+* [Smarter Search with Qdrant](https://www.youtube.com/watch?v=cgedbBeQ5gM)

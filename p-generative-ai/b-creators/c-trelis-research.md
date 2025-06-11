@@ -63,6 +63,7 @@
 * [Document Reading Agents with Read Write Memory](https://www.youtube.com/watch?v=FN6U5D7ZsLA)
 * [Sandbox for Agents to code](https://www.youtube.com/watch?v=bm6jegefGyY)
 * [Qwen3 and MCP](https://www.youtube.com/watch?v=mbKaCQ2N6Iw)
+* [Gitingest MCP](https://www.youtube.com/watch?v=fLKH8HefqSo)
 
 ### Transformers Applications
 * [Time Series](https://www.youtube.com/watch?v=P5T-ytvbj50&t=24s)

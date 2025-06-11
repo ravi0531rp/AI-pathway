@@ -36,3 +36,4 @@
 
 ### RAG
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)
+* [Qwen embeddings family](https://www.youtube.com/watch?v=hize6rD6Afk)

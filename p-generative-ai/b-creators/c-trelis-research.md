@@ -36,12 +36,14 @@
 * [Fine Tune Florence2](https://www.youtube.com/watch?v=2OyN-N36-E8&pp=0gcJCb0Ag7Wk3p_U)
 * [OpenAI Finetuning vs Distillation](https://www.youtube.com/watch?v=_4vWduu9Zj8)
 * [Fine Tuning Gemma and Mistral](https://www.youtube.com/watch?v=Ik6nbAjxLk4)
+* [FineTune Orpheus (Voice Cloning)](https://www.youtube.com/watch?v=3iqvBEGS2So)
 
 
 ### Inference
 * [Context Caching](https://www.youtube.com/watch?v=YeAAUghx_Xs)
 * [LORA adapters on a single GPU](https://www.youtube.com/watch?v=ZalNVkpZoUw)
 * [Pick GPU and Inference Engine](https://www.youtube.com/watch?v=I0ccoL80h9Y&t=27s)
+* [TTS serving with vLLM](https://www.youtube.com/watch?v=I2F9o8totrg)
 
 ### AI Tools
 * [Video Avatars](https://www.youtube.com/watch?v=fmTIN1PzNaY)
@@ -55,7 +57,7 @@
 * [Keyword vs Vector Search](https://www.youtube.com/watch?v=wp1ighuitNE)
 * [Boost RAG Accuracy with BM25 & Smolagents](https://www.youtube.com/watch?v=2NQzCbPvUMs)
 * [Advanced Models and Embeddings for RAG](https://www.youtube.com/watch?v=nYDBx78itDo)
-* [Enterprise RAG with PostGres](https://www.youtube.com/watch?v=FUm8RewMU6s)
+* [Enterprise RAG with Postgres](https://www.youtube.com/watch?v=FUm8RewMU6s)
 * [RAG with verified Citations](https://www.youtube.com/watch?v=-wGzSnhQKPM)
 
 ### Agents
@@ -66,4 +68,4 @@
 * [Gitingest MCP](https://www.youtube.com/watch?v=fLKH8HefqSo)
 
 ### Transformers Applications
-* [Time Series](https://www.youtube.com/watch?v=P5T-ytvbj50&t=24s)
+* [Chronos and PatchTST](https://www.youtube.com/watch?v=P5T-ytvbj50&t=24s)

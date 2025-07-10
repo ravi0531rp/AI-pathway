@@ -6,7 +6,7 @@
 ### LLM Full Course
 * [S1. Intro to LLMs](https://www.youtube.com/watch?v=xgcPRrq6NBw)
 * [S2. Transformers](https://www.youtube.com/watch?v=LYODbG3X4oI)
-* [S3. Attention and Flash Attention](https://www.youtube.com/watch?v=cE5E1m1cSAU)
+* [S3. Attention and Flash Attention ](https://www.youtube.com/watch?v=cE5E1m1cSAU)
 * [S4. Embeddings](https://www.youtube.com/watch?v=XMJzqxElhfY&pp=0gcJCb0Ag7Wk3p_U)
 * [S5. Next Token Prediction](https://www.youtube.com/watch?v=xNRgycrPQFY)
 * [S6. Pretraining](https://www.youtube.com/watch?v=zU5iIAsqJVU)
@@ -45,3 +45,9 @@
 * [Enterprise Agents with OpenAI](https://www.youtube.com/watch?v=OW2JazEv5hQ)
 * [MCP](https://www.youtube.com/watch?v=wDMlaytqcoo)
 * [Google ADK](https://www.youtube.com/watch?v=xj5VRmkwlYk)
+* [A2A Protocol](https://www.youtube.com/watch?v=HUSuUs16tcQ)
+
+### Projects
+* [Autonomous SWE](https://www.youtube.com/watch?v=AxRJ4cnQrN4)
+* [LLama Stack](https://www.youtube.com/watch?v=B1CNuTzET0k)
+* [Build own Research Agents Group](https://www.youtube.com/watch?v=jsUUHNSLFzE&pp=0gcJCcEJAYcqIYzv)

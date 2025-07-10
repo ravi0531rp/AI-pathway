@@ -13,6 +13,8 @@
 * [Gemini Thinking](https://www.youtube.com/watch?v=podMF0FNJac)
 * [Phi4 Reasoning ✅](https://www.youtube.com/watch?v=H9DQVWnvmao)
 * [MedGemma](https://www.youtube.com/watch?v=ZbpnqpCifSY&t=12s)
+* [SmolLMv3 - Reasoning + Tool Use](https://www.youtube.com/watch?v=T4XDMeoyvU0)
+* [Kyutai TTS + STT](https://www.youtube.com/watch?v=6UjxLZXwFbk)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)
@@ -23,6 +25,9 @@
 * [Gemini 2.5 for Youtube Analysis](https://www.youtube.com/watch?v=pFpxpAMqSmU&pp=0gcJCX4JAYcqIYzv)
 * [Gemini 2.5 for Audio](https://www.youtube.com/watch?v=LMhe2egLsrQ)
 * [Slashing Gemini bill by Caching](https://www.youtube.com/watch?v=HsdW0WoUb08)
+* [Gemini CLI](https://www.youtube.com/watch?v=KUCZe1xBKFM)
+* [Gemini CLI Deep Dive](https://www.youtube.com/watch?v=feT7_wVmgv0)
+* [NanoNet OCR](https://www.youtube.com/watch?v=j7oxmKCwCPM)
 
 ### Agents
 * [Agents Secret Sauce](https://www.youtube.com/watch?v=MRYqhbtLTmM)
@@ -36,4 +41,4 @@
 
 ### RAG
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)
-* [Qwen embeddings family](https://www.youtube.com/watch?v=hize6rD6Afk)
+* [Qwen embeddings](https://www.youtube.com/watch?v=hize6rD6Afk) 

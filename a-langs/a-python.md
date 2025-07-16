@@ -57,6 +57,6 @@
 * [Python to Prod](https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development)
 
 ### Python OOPS, SOLID and Design Patterns
-* [Python Top Design Patterns](https://www.udemy.com/course/python-solid-principles-and-top-design-patterns/?kw=Python+solid&src=sac)
+* [Python SOLID Principles and Top Design Patterns](https://www.udemy.com/course/python-solid-principles-and-top-design-patterns/?kw=Python+solid&src=sac)
 * [Python Design Patterns](https://www.udemy.com/course-dashboard-redirect/?course_id=5540440)
 

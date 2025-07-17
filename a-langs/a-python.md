@@ -20,7 +20,7 @@
 * [Decorators; AM Academy](https://www.youtube.com/watch?v=60BhDMIm5vk&list=PLzgPDYo_3xukWUakgF-OJvDOChq6drPG2)
 * [Software Engg Tricks with Python](https://www.youtube.com/watch?v=qvkppppy9K8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&pp=iAQB)
 
-## Regex
+### Regex
 * [Python Regular Expressions (Regex) with Projects](https://www.udemy.com/course/python-regular-expressions/)
 * [Python Regular Expressions Complete Masterclass](https://www.udemy.com/course/python-regex/)
 * [Regex; Indian Pythonista](https://www.youtube.com/watch?v=xp1vX15inBg&list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)

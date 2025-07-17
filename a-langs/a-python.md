@@ -20,6 +20,11 @@
 * [Decorators; AM Academy](https://www.youtube.com/watch?v=60BhDMIm5vk&list=PLzgPDYo_3xukWUakgF-OJvDOChq6drPG2)
 * [Software Engg Tricks with Python](https://www.youtube.com/watch?v=qvkppppy9K8&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY&pp=iAQB)
 
+## Regex
+* [Python Regular Expressions (Regex) with Projects](https://www.udemy.com/course/python-regular-expressions/)
+* [Python Regular Expressions Complete Masterclass](https://www.udemy.com/course/python-regex/)
+* [Regex; Indian Pythonista](https://www.youtube.com/watch?v=xp1vX15inBg&list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
+
 ### Async Programming
 * [Geeky Shows; OOPs & Threads](https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb)
 * [Multiprocessing; Indian Pythonista](https://www.youtube.com/watch?v=Ju4xkvFm07o&list=PLyb_C2HpOQSDUh4kIJnprJjh5n5Wqsww8)
@@ -44,11 +49,6 @@
 * [SQLModel Advanced](https://www.youtube.com/watch?v=BTCtKWpNoRI)
 * [SQLAlchemy](https://www.youtube.com/watch?v=1Va493SMTcY)
 * [SQLAlchemy 2.0 Advanced](https://www.youtube.com/watch?v=Uym2DHnUEno)
-
-## Regex
-* [Python Regular Expressions (Regex) with Projects](https://www.udemy.com/course/python-regular-expressions/)
-* [Python Regular Expressions Complete Masterclass](https://www.udemy.com/course/python-regex/)
-* [Regex; Indian Pythonista](https://www.youtube.com/watch?v=xp1vX15inBg&list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 
 ## Testing
 * [Python Automation Testing with Pytest](https://www.udemy.com/course/python-automation-pytest/)

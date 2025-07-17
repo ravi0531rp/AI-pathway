@@ -42,14 +42,6 @@
 * [Pytest Framework for Testing; Indian Pythonista](https://www.youtube.com/watch?v=L6N3BgZh2AA&list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [TOML Code Packaging; Real Python](https://www.youtube.com/watch?v=v6tALyc4C10)
 
-### DB Management
-* [SQLAlchemy Core 2.0](https://www.youtube.com/watch?v=CfZGWH_vNO0)
-* [SQLAlchemy ORM 2.0](https://www.youtube.com/watch?v=XWtj4zLl_tg)
-* [SQLModel ORM](https://www.youtube.com/watch?v=Ix-ps9MWUKA)
-* [SQLModel Advanced](https://www.youtube.com/watch?v=BTCtKWpNoRI)
-* [SQLAlchemy](https://www.youtube.com/watch?v=1Va493SMTcY)
-* [SQLAlchemy 2.0 Advanced](https://www.youtube.com/watch?v=Uym2DHnUEno)
-
 ## Testing
 * [Python Automation Testing with Pytest](https://www.udemy.com/course/python-automation-pytest/)
 

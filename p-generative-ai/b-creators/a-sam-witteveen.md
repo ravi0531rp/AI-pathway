@@ -38,6 +38,7 @@
 * [AI Clicks right buttons - OmniParser ✅](https://www.youtube.com/watch?v=vnf7pPd4CEM)
 * [Smol Agents](https://www.youtube.com/watch?v=c8EpB4zmXG0)
 * [SmolAgents Multiagent](https://www.youtube.com/watch?v=XHijkFRd2TU)
+* [SmolLM v3 - Router LLM](https://www.youtube.com/watch?v=T4XDMeoyvU0)
 
 ### RAG
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)

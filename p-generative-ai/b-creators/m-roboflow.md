@@ -11,6 +11,7 @@
 * [Use Semantic Search to create Datasets](https://www.youtube.com/watch?v=BZI5Tyir1tc)
 * [Fine tune florence 2](https://www.youtube.com/watch?v=_u53TxShLsk)
 * [Fine tune florence 2](https://www.youtube.com/watch?v=i3KjYgxNH6w&t=2s)
+* [Depth Anything](https://www.youtube.com/watch?v=lqPf3198wjw)
 
 ### Pure Vision
 * [RF DETR](https://www.youtube.com/watch?v=Mlcap4KGddg)
@@ -19,3 +20,4 @@
 * [Manage Edge devices for vision](https://www.youtube.com/watch?v=-sz1ghKPcmA&pp=0gcJCb0Ag7Wk3p_U)
 * [RTSP Stream and analysis](https://www.youtube.com/watch?v=VCbcC5OEGRU)
 * [Model Evaluation](https://www.youtube.com/watch?v=nbCY93BMw0U&pp=0gcJCb0Ag7Wk3p_U)
+* [Auto Label](https://www.youtube.com/watch?v=Dk-6MCQ9j-c)

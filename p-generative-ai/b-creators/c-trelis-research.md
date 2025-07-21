@@ -29,6 +29,7 @@
 * [Fine Tuning Tips](https://www.youtube.com/watch?v=lJDxkjE9SSY)
 * [Train a self-correcting LLM with backtracking](https://www.youtube.com/watch?v=mN6O-9Ucl9c)
 * [Flux Diffusion Models for image](https://www.youtube.com/watch?v=ThKYjTdkyP8)
+* [ORPO](https://www.youtube.com/watch?v=OWMJ0rBUj04&pp=ygUYQWR2YW5jZWQgTExNIGZpbmUgdHVuaW5n)
 * [RL for LLMs](https://www.youtube.com/watch?v=C4HxJQ2QzWo)
 * [SFT vs GRPO](https://www.youtube.com/watch?v=CsqYlV8X8og)
 * [How Does GRPO work](https://www.youtube.com/watch?v=iHlarYGLMbY)

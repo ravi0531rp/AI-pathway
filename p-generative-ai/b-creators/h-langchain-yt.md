@@ -34,3 +34,4 @@
 * [Swarm of agents](https://www.youtube.com/watch?v=JeyDrn1dSUQ)
 * [BigTool - Handle too many tools for an Agent✅](https://www.youtube.com/watch?v=3ISRS2hQlfI)
 * [Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA)
+* [Open Deep Research](https://www.youtube.com/watch?v=agGiWUpxkhg)

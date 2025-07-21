@@ -46,6 +46,7 @@
 * [MCP](https://www.youtube.com/watch?v=wDMlaytqcoo)
 * [Google ADK](https://www.youtube.com/watch?v=xj5VRmkwlYk)
 * [A2A Protocol](https://www.youtube.com/watch?v=HUSuUs16tcQ)
+* [A2A + MCP](https://www.youtube.com/watch?v=OE-15MWhA9U)
 
 ### Projects
 * [Autonomous SWE](https://www.youtube.com/watch?v=AxRJ4cnQrN4)

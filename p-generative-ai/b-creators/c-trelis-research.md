@@ -25,7 +25,7 @@
 * [GPU vs TPU](https://www.youtube.com/watch?v=br8hkcZ1YV0)
 
 
-### LLM Fine Tuning
+### LLM Training/Fine Tuning
 * [Fine Tuning Tips](https://www.youtube.com/watch?v=lJDxkjE9SSY)
 * [Train a self-correcting LLM with backtracking](https://www.youtube.com/watch?v=mN6O-9Ucl9c)
 * [Flux Diffusion Models for image](https://www.youtube.com/watch?v=ThKYjTdkyP8)
@@ -38,6 +38,9 @@
 * [OpenAI Finetuning vs Distillation](https://www.youtube.com/watch?v=_4vWduu9Zj8)
 * [Fine Tuning Gemma and Mistral](https://www.youtube.com/watch?v=Ik6nbAjxLk4)
 * [FineTune Orpheus (Voice Cloning)](https://www.youtube.com/watch?v=3iqvBEGS2So)
+* [Fine Tune with Custom Metrics](https://www.youtube.com/watch?v=OfY-T8CbKCA&t=229s&pp=0gcJCU0KAYcqIYzv)
+* [Multi GPU training with Unsloth](https://www.youtube.com/watch?v=CxowhaaLWZs)
+* [Training Recursive Models](https://www.youtube.com/watch?v=3CNwtG5r2LY)
 
 
 ### Inference
@@ -45,6 +48,7 @@
 * [LORA adapters on a single GPU](https://www.youtube.com/watch?v=ZalNVkpZoUw)
 * [Pick GPU and Inference Engine](https://www.youtube.com/watch?v=I0ccoL80h9Y&t=27s)
 * [TTS serving with vLLM](https://www.youtube.com/watch?v=I2F9o8totrg)
+* [Serve a Text to Speech model via vLLM](https://www.youtube.com/watch?v=I2F9o8totrg)
 
 ### AI Tools
 * [Video Avatars](https://www.youtube.com/watch?v=fmTIN1PzNaY)

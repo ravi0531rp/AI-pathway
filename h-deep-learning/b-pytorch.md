@@ -2,6 +2,7 @@
 
 ## Basics
 * [Deep Learning Prerequisites](https://www.udemy.com/course-dashboard-redirect/?course_id=980086)
+* [A deep intro to Neural Nets](https://thoughtworks.udemy.com/course/deeplearning_x)
 * [Advanced DL with Torch](https://www.udemy.com/course/pytorch-for-deep-learning/)
 * [Deep Learning with PyTorch! Including Transformers, BERT and GPT!](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/learn/)
 * [Code a neural net from scratch Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)

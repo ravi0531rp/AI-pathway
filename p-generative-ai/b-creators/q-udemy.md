@@ -1,6 +1,7 @@
 ## Udemy
 
 ### LLMs
+* [A deep Understanding of LLMs - Mike Cohen](https://thoughtworks.udemy.com/course/dullms_x)
 * [LLMs Mastery : Complete Guide to GenAI](https://www.udemy.com/course/llms-mastery-complete-guide-to-transformers-generative-ai/)
 
 

@@ -8,3 +8,7 @@
 * [vLLM - Pytorch Conference](https://www.youtube.com/watch?v=9ih0EmcXRHE)
 * [Accelerated Inference - Databricks](https://www.youtube.com/watch?v=qBFENFjKE-M)
 * [Scaling LLM Batch Inference with Ray & vLLM](https://www.youtube.com/watch?v=_rEsLo21WvE)
+
+
+### Test Time Learning
+* [Learning at Test Time](https://www.youtube.com/watch?v=vei7uf9wOxI)

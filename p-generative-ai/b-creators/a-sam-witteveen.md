@@ -15,6 +15,9 @@
 * [MedGemma](https://www.youtube.com/watch?v=ZbpnqpCifSY&t=12s)
 * [SmolLMv3 - Reasoning + Tool Use](https://www.youtube.com/watch?v=T4XDMeoyvU0)
 * [Kyutai TTS + STT](https://www.youtube.com/watch?v=6UjxLZXwFbk)
+* [Gemini DeepThink](https://www.youtube.com/watch?v=Nmv4YxpbhU8)
+* [Gemini 3 Pro](https://www.youtube.com/watch?v=PFyccJhbQ6w)
+* [Function Gemma ✅](https://www.youtube.com/watch?v=Zj_cvQKcH4g&t=418s)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)
@@ -28,6 +31,8 @@
 * [Gemini CLI](https://www.youtube.com/watch?v=KUCZe1xBKFM)
 * [Gemini CLI Deep Dive](https://www.youtube.com/watch?v=feT7_wVmgv0)
 * [NanoNet OCR](https://www.youtube.com/watch?v=j7oxmKCwCPM)
+* [LangExtract](https://www.youtube.com/watch?v=t-53fouKqWI)
+* [Deepseek OCR](https://www.youtube.com/watch?v=YEZHU4LSUfU)
 
 ### Agents
 * [Agents Secret Sauce](https://www.youtube.com/watch?v=MRYqhbtLTmM)
@@ -42,4 +47,5 @@
 
 ### RAG
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)
-* [Qwen embeddings](https://www.youtube.com/watch?v=hize6rD6Afk) 
+* [Qwen embeddings](https://www.youtube.com/watch?v=hize6rD6Afk)
+* [Embeddings Gemma for Edge](https://www.youtube.com/watch?v=QZJvLUd38kQ)

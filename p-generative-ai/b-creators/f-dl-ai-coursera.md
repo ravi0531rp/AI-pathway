@@ -26,3 +26,5 @@
 ### Agents
 * [CrewAI](https://www.coursera.org/projects/practical-multi-ai-agents-and-advanced-use-cases-with-crewai)
 * [Agent Memory](https://www.coursera.org/projects/llms-as-operating-systems-agent-memory)
+* [Database Agent](https://www.coursera.org/projects/building-your-own-database-agent)
+* [LLM as OS](https://www.coursera.org/projects/llms-as-operating-systems-agent-memory)

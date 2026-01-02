@@ -8,6 +8,7 @@
 * [LLM Benchmarks](https://www.youtube.com/watch?v=1JaL5eVqFq0)
 * [BERT](https://www.youtube.com/watch?v=n_UQ0e0fBIA)
 * [Quantization in LLMs](https://www.youtube.com/watch?v=3EDI4akymhA)
+* [RL with verifiable rewards](https://www.youtube.com/watch?v=2HPKmgmi50E)
 
 ### LLM Practicals
 * [Synthetic Data](https://www.youtube.com/watch?v=L1lWxeW4o6c)
@@ -33,3 +34,6 @@
 * [Voice AI agents](https://www.youtube.com/watch?v=zNA01OEVFUI)
 * [SWARM of Agents](https://www.youtube.com/watch?v=eCoObzaHYC4)
 * [Agents in Cloud - Langgraph](https://www.youtube.com/watch?v=i_NRmG2qUQA)
+* [Making Computer and Browser Use Agents](https://www.youtube.com/watch?v=7li_iCjQ4vk)
+* [Build Deep AI agents](https://www.youtube.com/watch?v=Ly9UDjiOpxg)
+* [Improving AI Agents](https://www.youtube.com/watch?v=ceAWFE7D9bs)

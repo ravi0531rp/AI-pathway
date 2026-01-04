@@ -34,11 +34,11 @@
 ### Week Split
 | Day   |         Group      
 |-------|-----------------
-| Mon   | Group A
-| Tue   | Group D
-| Wed   | Group D
-| Thu   | Group B
-| Fri   | Group B
-| Sat   | Group C + A
-| Sun   | Group C + A
+| Mon   | Group A + Group B
+| Tue   | Group A + Group B
+| Wed   | Group A + Group B
+| Thu   | Group C + Group D
+| Fri   | Group C + Group D
+| Sat   | Group C + Group D
+| Sun   | Group C + Group D
 

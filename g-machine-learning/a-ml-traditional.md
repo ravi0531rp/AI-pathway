@@ -5,6 +5,7 @@
 * [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)
 * [Complete ML by StatsQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 * [AWS Sagemaker ML Specialty](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)
+* [Model Explanability](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShaln9GfiHO_c0HzOSqLOGv)
 
 ### Tuning and Selection
 * [Hyperparameter optimization](https://www.udemy.com/course-dashboard-redirect/?course_id=3802920)

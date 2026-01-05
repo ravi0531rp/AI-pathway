@@ -6,6 +6,7 @@
 * [Machine Learning Engineering for Production (MLOps) Specialization - Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 * [Deployment of ML Models](https://www.udemy.com/course-dashboard-redirect/?course_id=2158256)
 * [Advanced Production ML](https://www.youtube.com/watch?v=azaRL_RRLV0&list=PLPTV0NXA_ZSgvSjVEzUNMvTIgOf6vs8YQ)
+* [ML in Prod - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgvSjVEzUNMvTIgOf6vs8YQ)
 
 ### Advanced
 * [Kubeflow](https://www.youtube.com/watch?v=6wWdNg0GMV4)

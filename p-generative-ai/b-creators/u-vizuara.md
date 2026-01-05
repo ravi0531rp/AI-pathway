@@ -10,3 +10,9 @@
 ### From Scratch Series - Advanced
 * [Reasoning LLMs from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
 * [Build Deepseek from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
+
+### Diffusion
+* [The principles of Diffusion Models](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShSUHKLhdHAdAw5oM9vM1Yf)
+
+### LLM inference
+* [vLLM](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShQvMQwbrvXy1UtI1DiGlu7)

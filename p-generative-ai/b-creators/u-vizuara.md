@@ -1,4 +1,4 @@
-## [Vizuara](https://www.youtube.com/@TheNeuralMaze/videos)
+## [Vizuara](https://www.youtube.com/@vizuara/videos)
 
 ### From Scratch Series
 * [Foundations of ML](https://www.youtube.com/watch?v=C8hEa2qb46k&list=PLPTV0NXA_ZSiLI0ZfZYbHM2FPHKIuMW6K)
@@ -16,3 +16,8 @@
 
 ### LLM inference
 * [vLLM](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShQvMQwbrvXy1UtI1DiGlu7)
+
+### Vision Models
+* [Transformers in Vision](https://www.youtube.com/watch?v=DeSIAB3qD9U)
+* [DETR](https://www.youtube.com/watch?v=zdMDvJhyrrc)
+* [TimesFormers - ViT for Videos](https://www.youtube.com/watch?v=ZAPorSv-Tas)

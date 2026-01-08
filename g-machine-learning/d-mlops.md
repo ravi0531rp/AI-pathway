@@ -3,11 +3,9 @@
 ### Basics
 * [MlOps Zero to Hero](https://thoughtworks.udemy.com/course/mlops-zero-to-hero)
 * [Ultimate DevOps to MLOps Bootcamp](https://thoughtworks.udemy.com/course/devops-to-mlops-bootcamp/)
-* [Complete MLops BootCamp with 10 projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)
 * [Mastering advanced MLops with Kubernetes + Jenkins on GCP](https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/)
 * [Machine Learning Engineering for Production (MLOps) Specialization - Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 * [Deployment of ML Models](https://www.udemy.com/course-dashboard-redirect/?course_id=2158256)
-* [Advanced Production ML](https://www.youtube.com/watch?v=azaRL_RRLV0&list=PLPTV0NXA_ZSgvSjVEzUNMvTIgOf6vs8YQ)
 * [ML in Prod - Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgvSjVEzUNMvTIgOf6vs8YQ)
 
 ### Advanced

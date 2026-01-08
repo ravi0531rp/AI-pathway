@@ -18,5 +18,3 @@
 * [Build a LLM from scratch](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 * [Pretrain a LLM with DDP](https://www.youtube.com/watch?v=aPzbR1s1O_8&t=336s&pp=ygULRERQIHB5dG9yY2jSBwkJzQkBhyohjO8%3D)
 * [Vision Transformers in Pytorch](https://www.youtube.com/watch?v=DdsVwTodycw)
-* [Reasoning LLMs from Scratch including RL](https://www.youtube.com/watch?v=k2QEElQ9eeM&list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
-* [Build Deepseek from Scratch](https://www.youtube.com/watch?v=QWNxQIq0hMo&list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)

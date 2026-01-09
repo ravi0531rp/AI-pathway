@@ -12,6 +12,9 @@
 * [Fine tune florence 2](https://www.youtube.com/watch?v=_u53TxShLsk)
 * [Fine tune florence 2](https://www.youtube.com/watch?v=i3KjYgxNH6w&t=2s)
 * [Depth Anything](https://www.youtube.com/watch?v=lqPf3198wjw)
+* [FineTune SmolVLM2](https://www.youtube.com/watch?v=qLPInUmH9xE)
+* [Auto Label Image Data](https://www.youtube.com/watch?v=Dk-6MCQ9j-c&pp=0gcJCU0KAYcqIYzv)
+* [Sam3](https://www.youtube.com/watch?v=IATrWxEDpu4)
 
 ### Pure Vision
 * [RF DETR](https://www.youtube.com/watch?v=Mlcap4KGddg)
@@ -21,3 +24,5 @@
 * [RTSP Stream and analysis](https://www.youtube.com/watch?v=VCbcC5OEGRU)
 * [Model Evaluation](https://www.youtube.com/watch?v=nbCY93BMw0U&pp=0gcJCb0Ag7Wk3p_U)
 * [Auto Label](https://www.youtube.com/watch?v=Dk-6MCQ9j-c)
+* [Evaluate Vision AI Model](https://www.youtube.com/watch?v=1uL7UcwlMUE)
+* [Vision Models on Live Feed](https://www.youtube.com/watch?v=8xE_Swh27Tw)

@@ -1,4 +1,8 @@
-## [Vuk Rosic YT]([https://www.youtube.com/@YannicKilcher/videos](https://www.youtube.com/@vukrosic/videos))
+## [Vuk Rosic YT](https://www.youtube.com/@vukrosic/videos)
+
+
+### Codes
+* [COde Deepseek](https://www.youtube.com/watch?v=TfEG0TwueTs)
 
 ### Research Paper From Scratch
 * [Write and Publish a Paper Series](https://www.youtube.com/watch?v=O2yAMJu8LpI&list=PL-9_KFQd8ssIjSusRNmbLKjIE5bb-bLwu)

@@ -23,3 +23,4 @@
 ### RAG
 * [GraphRAG](https://www.youtube.com/watch?v=J-9EbJBxcbg)
 * [Telemedicine Support Agent Case STudy](https://www.youtube.com/watch?v=sn79oS4MZFI)
+* [DsPy](https://www.youtube.com/watch?v=-cKUW6n8hBU)

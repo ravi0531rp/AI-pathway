@@ -49,6 +49,7 @@
 * [Pick GPU and Inference Engine](https://www.youtube.com/watch?v=I0ccoL80h9Y&t=27s)
 * [TTS serving with vLLM](https://www.youtube.com/watch?v=I2F9o8totrg)
 * [Serve a Text to Speech model via vLLM](https://www.youtube.com/watch?v=I2F9o8totrg)
+* [Annoymizing Data in Prompts](https://www.youtube.com/watch?v=7NrzPuICLtg&list=PLWG1mVtuzdxcRd3_Ty5yZkTCGzyz8hHcf&index=32)
 
 ### AI Tools
 * [Video Avatars](https://www.youtube.com/watch?v=fmTIN1PzNaY)

@@ -17,7 +17,7 @@
 * [Kyutai TTS + STT](https://www.youtube.com/watch?v=6UjxLZXwFbk)
 * [Gemini DeepThink](https://www.youtube.com/watch?v=Nmv4YxpbhU8)
 * [Gemini 3 Pro](https://www.youtube.com/watch?v=PFyccJhbQ6w)
-* [Function Gemma ✅](https://www.youtube.com/watch?v=Zj_cvQKcH4g&t=418s)
+* [Function Gemma](https://www.youtube.com/watch?v=Zj_cvQKcH4g)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)
@@ -44,8 +44,11 @@
 * [Smol Agents](https://www.youtube.com/watch?v=c8EpB4zmXG0)
 * [SmolAgents Multiagent](https://www.youtube.com/watch?v=XHijkFRd2TU)
 * [SmolLM v3 - Router LLM](https://www.youtube.com/watch?v=T4XDMeoyvU0)
+* [Open Responses - New API](https://www.youtube.com/watch?v=b-BzeHF6WLA)
+* [Google Universal Commerce Protocol](https://www.youtube.com/watch?v=yDKpF6CjBUo)
 
 ### RAG
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)
 * [Qwen embeddings](https://www.youtube.com/watch?v=hize6rD6Afk)
 * [Embeddings Gemma for Edge](https://www.youtube.com/watch?v=QZJvLUd38kQ)
+* [Qwen3 Multimodal Embeddings](https://www.youtube.com/watch?v=fY3-YeveBgA)

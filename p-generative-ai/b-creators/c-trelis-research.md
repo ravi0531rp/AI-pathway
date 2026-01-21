@@ -41,7 +41,8 @@
 * [Fine Tune with Custom Metrics](https://www.youtube.com/watch?v=OfY-T8CbKCA&t=229s&pp=0gcJCU0KAYcqIYzv)
 * [Multi GPU training with Unsloth](https://www.youtube.com/watch?v=CxowhaaLWZs)
 * [Training Recursive Models](https://www.youtube.com/watch?v=3CNwtG5r2LY)
-
+* [Transcription Models - Prep, Train and Serve](https://www.youtube.com/watch?v=ORnnufNjw10)
+* [Align Speech and Audio for Speech Recog  Model Training](https://www.youtube.com/watch?v=cNSzjU6yqn4)
 
 ### Inference
 * [Context Caching](https://www.youtube.com/watch?v=YeAAUghx_Xs)

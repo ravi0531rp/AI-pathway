@@ -16,6 +16,7 @@
 
 ### Agents
 * [Langgraph Playlist](https://www.youtube.com/playlist?list=PLNIQLFWpQMRXmns-7UarmPIR6DN7bgEzZ)
+* [Agentic AI using Langgraph](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
 * [DsPY + Agentic Memory with Mem0](https://www.youtube.com/playlist?list=PLGXWtN1HUjPfv9EBipSugV85TomfiwqFu)
 
 ### RAG

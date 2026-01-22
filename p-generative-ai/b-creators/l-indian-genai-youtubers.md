@@ -15,9 +15,9 @@
 ## [Harish Neel | AI](https://www.youtube.com/@harish_neel/videos)
 
 ### Agents
-* [Langgraph Playlist](https://www.youtube.com/watch?v=zcC8eK6grqw&list=PLQxDHpeGU14AJ4sBRWLBqjMthxrLXJmgF)
+* [Langgraph Playlist](https://www.youtube.com/playlist?list=PLNIQLFWpQMRXmns-7UarmPIR6DN7bgEzZ)
 * [DsPY + Agentic Memory with Mem0](https://www.youtube.com/playlist?list=PLGXWtN1HUjPfv9EBipSugV85TomfiwqFu)
 
 ### RAG
-* [Complete RAG 2025](https://www.youtube.com/watch?v=63B-3rqRFbQ&list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)
+* [Complete RAG 2025](https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)
 * [Multimodal RAG](https://www.youtube.com/watch?v=-vJ2-0RXkmk)

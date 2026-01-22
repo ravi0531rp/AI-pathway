@@ -2,6 +2,7 @@
 
 ### LLMs Discussion
 * [Llama 4 herd](https://www.youtube.com/watch?v=TRw6WrRpvEI)
+* [Recursive Language Models](https://www.youtube.com/watch?v=Zwo7sdohmE8)
 
 ### LLM Full Course
 * [S1. Intro to LLMs](https://www.youtube.com/watch?v=xgcPRrq6NBw)
@@ -22,6 +23,7 @@
 * [Train own DeepSeek](https://www.youtube.com/watch?v=bbFEYPx9Hpo)
 * [Mixture Of Judges](https://www.youtube.com/watch?v=2MDi_jWhzB0)
 * [GPU Optimizations](https://www.youtube.com/watch?v=BEDHx_drhHQ)
+* [Tinker - Fine Tune + RL](https://www.youtube.com/watch?v=Mmo-B5HD0ac)
 
 ### LLM Inference
 * [LLM Ops](https://www.youtube.com/watch?v=d1Oj5vrTWC4&list=PLrSHiQgy4VjGQohoAmgX9VFH52psNOu71)
@@ -31,6 +33,8 @@
 * [Multimodal vision models](https://www.youtube.com/watch?v=PQRXOs1FtDs)
 * [RAG Evaluations](https://www.youtube.com/watch?v=bB56BaQIBm4)
 * [RAG Best Practices: 2025](https://www.youtube.com/watch?v=vf9emNxXWdA)
+* [Prompt Optimization with DsPy](https://www.youtube.com/watch?v=x8qo_0SCxz0&pp=0gcJCYcKAYcqIYzv)
+* [Multimodal RAG](https://www.youtube.com/watch?v=kxGMel-hOas)
 
 ### Agents
 * [Pydantic AI](https://www.youtube.com/watch?v=mkq2tG8_Q8Q)
@@ -47,6 +51,8 @@
 * [Google ADK](https://www.youtube.com/watch?v=xj5VRmkwlYk)
 * [A2A Protocol](https://www.youtube.com/watch?v=HUSuUs16tcQ)
 * [A2A + MCP](https://www.youtube.com/watch?v=OE-15MWhA9U)
+* [Agent Memory](https://www.youtube.com/watch?v=MYzuyEtKto4&t=1085s)
+* [Langsmith Agent Builder](https://www.youtube.com/watch?v=Tj_8dKbtdKU)
 
 ### Projects
 * [Autonomous SWE](https://www.youtube.com/watch?v=AxRJ4cnQrN4)

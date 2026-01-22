@@ -63,7 +63,7 @@
 | Data Analytics                | DSA                       | Computer Vision                                | Generative AI – Practical   |
 | Machine Learning              | Databases                 | Big Data                                       |                             |
 | Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |                             |
-| Data Science and Engineering  | DevOps                    | Generative AI – Theoretical                   |                             |
+| Data Science and Engineering  | DevOps                    | Generative AI – Theoretical                    |                             |
 
 ---
 
@@ -71,10 +71,10 @@
 
 | Day   | Group Focus            |
 |-------|------------------------|
-| Mon   | Group D + Group A      |
-| Tue   | Group D + Group A      |
-| Wed   | Group D + Group B      |
-| Thu   | Group D + Group B      |
-| Fri   | Group D + Group C      |
-| Sat   | Group D + Group C      |
-| Sun   | Group D + Group C      |
+| Mon   | Group D                |
+| Tue   | Group D                |
+| Wed   | Group B                |
+| Thu   | Group B                |
+| Fri   | Group A                |
+| Sat   | Group C + Group A      |
+| Sun   | Group C + Group A      |

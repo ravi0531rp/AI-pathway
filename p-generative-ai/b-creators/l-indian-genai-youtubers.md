@@ -16,6 +16,7 @@
 
 ### Agents
 * [Langgraph Playlist](https://www.youtube.com/watch?v=zcC8eK6grqw&list=PLQxDHpeGU14AJ4sBRWLBqjMthxrLXJmgF)
+* [DsPY + Agentic Memory with Mem0](https://www.youtube.com/playlist?list=PLGXWtN1HUjPfv9EBipSugV85TomfiwqFu)
 
 ### RAG
 * [Complete RAG 2025](https://www.youtube.com/watch?v=63B-3rqRFbQ&list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)

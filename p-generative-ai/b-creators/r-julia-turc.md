@@ -17,6 +17,8 @@
 * [1bit LLMs](https://www.youtube.com/watch?v=WBm0nyDkVYM)
 * [4bit Training for LLMs](https://www.youtube.com/watch?v=-cRedoYETzQ&t=35s)
 * [GGUF reverse engineered](https://www.youtube.com/watch?v=vW30o4U9BFE)
+* [Why Transformers > CNNs in Vision](https://www.youtube.com/watch?v=KnCRTP11p5U)
+* [Diffusion LLMs](https://www.youtube.com/watch?v=SFi9KsnidNc)
 
 
 ### Agents

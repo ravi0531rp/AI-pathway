@@ -10,4 +10,4 @@
 * [Multimodal RAG](https://www.youtube.com/watch?v=7CXJWnHI05w&list=PLQxDHpeGU14D6dm0rmAXhdLeLYlX2zk7p)
 
 ### Fine Tuning
-* [Fine Tuning Complete](https://www.youtube.com/watch?v=2yZUOeIA7gE&list=PLQxDHpeGU14DfUm7YOwuGSXNGTNJVyw9J)
+* [Fine Tuning Complete](https://www.youtube.com/playlist?list=PLQxDHpeGU14AfMnI41zEo5G1xfZXhSVm0)

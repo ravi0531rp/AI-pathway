@@ -2,6 +2,7 @@
 
 
 ### Qdrant DB
+* [Qdrant Essentials](https://www.youtube.com/playlist?list=PL9IXkWSmb36_ykIQC30xk6aNKF8dlVkAy)
 * [Getting Started](https://www.youtube.com/watch?v=LRcZ9pbGnno)
 * [Vector Similarity Search](https://www.youtube.com/watch?v=taYoJ-mKLUI)
 * [Semantic Similarity](https://www.youtube.com/watch?v=AASiqmtKo54)

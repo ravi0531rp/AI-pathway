@@ -51,4 +51,4 @@
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)
 * [Qwen embeddings](https://www.youtube.com/watch?v=hize6rD6Afk)
 * [Embeddings Gemma for Edge](https://www.youtube.com/watch?v=QZJvLUd38kQ)
-* [Qwen3 Multimodal Embeddings](https://www.youtube.com/watch?v=fY3-YeveBgA)
+* [Qwen3 Multimodal Embeddings ✅](https://www.youtube.com/watch?v=fY3-YeveBgA)

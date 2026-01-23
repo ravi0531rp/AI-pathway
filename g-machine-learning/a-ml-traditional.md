@@ -2,7 +2,7 @@
 
 
 ### Complete Theory
-* [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)
+* [Machine Learning 100 Days](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 * [Complete ML by StatsQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 * [AWS Sagemaker ML Specialty](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)
 * [Model Explanability](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShaln9GfiHO_c0HzOSqLOGv)

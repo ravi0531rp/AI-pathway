@@ -22,3 +22,10 @@
 ### RAG
 * [Complete RAG 2025](https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)
 * [Multimodal RAG](https://www.youtube.com/watch?v=-vJ2-0RXkmk)
+
+
+## [CampusX](https://www.youtube.com/@campusx-official)
+
+* [Langchain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
+* [Langgraph](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
+* [MCP](https://www.youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0)

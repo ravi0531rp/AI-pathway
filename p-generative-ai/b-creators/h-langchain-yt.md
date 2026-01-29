@@ -35,3 +35,6 @@
 * [BigTool - Handle too many tools for an Agent✅](https://www.youtube.com/watch?v=3ISRS2hQlfI)
 * [Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA)
 * [Open Deep Research](https://www.youtube.com/watch?v=agGiWUpxkhg)
+* [Teaching Agents to Learn from Experience](https://www.youtube.com/watch?v=6XXH5XecVp4)
+* [Build a voice Assistant](https://www.youtube.com/watch?v=kDPzdyX76cg)
+* [Debug Voice Assistant](https://www.youtube.com/watch?v=0FmbIgzKAkQ)

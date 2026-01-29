@@ -14,3 +14,6 @@
 
 ### Apps
 * [AI Image Gen App](https://www.youtube.com/watch?v=WLuYhBesLiI&pp=0gcJCU0KAYcqIYzv)
+
+### LLMs
+* [Google MedGemma](https://www.youtube.com/watch?v=7kdDLp-SOsU)

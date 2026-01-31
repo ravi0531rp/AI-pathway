@@ -30,3 +30,4 @@
 * [Langgraph](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
 * [MCP](https://www.youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0)
 * [Ollama Masterclass](https://www.youtube.com/watch?v=YcAYmIFtA0o)
+* [Deep Research Agent](https://www.youtube.com/watch?v=Ou_v9lk0rxg)

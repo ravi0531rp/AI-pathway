@@ -52,3 +52,4 @@
 * [Qwen embeddings](https://www.youtube.com/watch?v=hize6rD6Afk)
 * [Embeddings Gemma for Edge](https://www.youtube.com/watch?v=QZJvLUd38kQ)
 * [Qwen3 Multimodal Embeddings ✅](https://www.youtube.com/watch?v=fY3-YeveBgA)
+* [Gemini Embeddings 2 - Multimodal ✅](https://www.youtube.com/watch?v=zUkKvWBJ_0I)

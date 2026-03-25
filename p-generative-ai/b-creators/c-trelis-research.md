@@ -58,6 +58,7 @@
 ### Speech-based Models
 * [Fine Tune Text to Speech - 2025](https://www.youtube.com/watch?v=vfe8KIm1ubw)
 * [Diarization and Turn Detection](https://www.youtube.com/watch?v=xWhI8RkRSGQ)
+* [Best Transcription Tools - 2026](https://www.youtube.com/watch?v=xKVsupliks8)
 
 ### RAG
 * [Mastering Retrieval with Re-rankers](https://www.youtube.com/watch?v=9QJXvNiJIG8)

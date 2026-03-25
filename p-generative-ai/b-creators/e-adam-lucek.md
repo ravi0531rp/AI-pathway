@@ -26,6 +26,7 @@
 * [Best Chunking strategies for RAG](https://www.youtube.com/watch?v=Pk2BeaGbcTE&pp=0gcJCb0Ag7Wk3p_U)
 * [Static Embeddings with Distillation](https://www.youtube.com/watch?v=Lh4xfj9Xnzk)
 * [Reranking for RAG](https://www.youtube.com/watch?v=7ZU85v4Kt-Y)
+* [From retrieval to navigation - Improved RAG](https://www.youtube.com/watch?v=7fbY8k9Mz3M)
 
 ### Agents
 * [MCP Discussion](https://www.youtube.com/watch?v=nMKYW0DiRp4&pp=0gcJCb0Ag7Wk3p_U)

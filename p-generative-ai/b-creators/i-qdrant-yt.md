@@ -13,6 +13,8 @@
 * [Qdrant Cloud](https://www.youtube.com/watch?v=BF02jULGCfo)
 * [GPU accelerated HNSW](https://www.youtube.com/watch?v=HkVhWvaUfoQ)
 * [New in Qdrant 1.14](https://www.youtube.com/watch?v=nBqlqR8yM4Y)
+* [Multi Vector Search](https://www.youtube.com/watch?v=WXEf6K6DBq8&list=PL9IXkWSmb36-VVokcL5UGI9lGzKLan0F1)
+* [Advanced Vector Search](https://www.youtube.com/watch?v=9B7RrmQCQeQ&list=PL9IXkWSmb369tDKcdBf-NxbjcCHcx-9Al)
 
 ### RAG
 * [Finding the correct Embedding Model](https://www.youtube.com/watch?v=ZUIAmtribPo)

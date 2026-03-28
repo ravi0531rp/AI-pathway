@@ -12,6 +12,11 @@
 * [Reasoning LLMs from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
 * [Build Deepseek from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
 * [AutoEncoders & VAEs from Scratch](https://www.youtube.com/watch?v=MLAZu2mRbwk&t=1695s)
+* [Diffusion LM from Scratch](https://www.youtube.com/watch?v=9Q9qS48PyLA&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf&pp=0gcJCbwEOCosWNin)
+
+### Build
+* [Context Engineering and Build Apps](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj-E8A1DBvbWIYGxC46u-Hd)
+* [Openclaw RL from scratch](https://www.youtube.com/watch?v=ZtN6Gg_bdJE)
 
 ### Diffusion
 * [The principles of Diffusion Models](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShSUHKLhdHAdAw5oM9vM1Yf)

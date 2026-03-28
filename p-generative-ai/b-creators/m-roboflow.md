@@ -29,6 +29,7 @@
 * [RF-DETR – Batch Processing & Inference](https://www.youtube.com/watch?v=ZJU8PCgYiHk&pp=0gcJCX4JAYcqIYzv)
 * [YOLOv12 Training](https://www.youtube.com/watch?v=fksJmIMIfXo)
 * [YOLOv26 Fine-Tuning](https://www.youtube.com/watch?v=sczVknSvzh4&pp=0gcJCZEKAYcqIYzv)
+* [Multi Object Tracking](https://www.youtube.com/watch?v=u0k2dTZ0vfs)
 
 ### Segmentation
 * [RF-DETR Segmentation](https://www.youtube.com/watch?v=boVmetUahes)

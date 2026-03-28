@@ -71,10 +71,10 @@
 
 | Day   | Group Focus            |
 |-------|------------------------|
-| Mon   | Group D                |
-| Tue   | Group D                |
-| Wed   | Group B                |
-| Thu   | Group B                |
-| Fri   | Group A                |
-| Sat   | Group C + Group A      |
-| Sun   | Group C + Group A      |
+| Mon   | Group B  + Group D              |
+| Tue   | Group B  + Group D              |
+| Wed   | Group B  + Group D                |
+| Thu   | Group A +  Group C                |
+| Fri   | Group A +  Group C                |
+| Sat   | Group A +  Group C      |
+| Sun   | Group A +  Group C      |

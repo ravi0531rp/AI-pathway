@@ -16,3 +16,7 @@
 ### Bayesian
 * [Bayesian ML with A/B testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/)
 * [A/B testing in Python](https://www.udemy.com/course/ab-testing-in-python/)
+
+
+### Anomaly Detection
+* [Anomaly Detection - Microsoft Research](https://www.youtube.com/watch?v=12Xq9OLdQwQ)

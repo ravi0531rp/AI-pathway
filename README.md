@@ -61,10 +61,10 @@
 |-------------------------------|---------------------------|------------------------------------------------|
 | Mathematics                   | Languages                 | Deep Learning                                  |         
 | Data Analytics                | Data Structures and Algos | Computer Vision                                |    
-| Machine Learning              | Generative AI – Practical | Natural Language Processing                    |                            
-| Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |                             
-| Data Science and Engineering  | DevOps                    | Generative AI – Theoretical                    |                             
-| Big Data                      |                           |                                                |           
+| Machine Learning              | APIs and Microservices | Natural Language Processing                    |                            
+| Sequence Modelling            | DevOps     | Reinforcement Learning                         |                             
+| Data Science and Engineering  |                     | Generative AI – Theoretical                    |                             
+| Big Data                      |                           | Generative AI – Practical                                               |           
 | Databases
 
 ---

@@ -57,24 +57,29 @@
 
 ## Topic Groups
 
-| Group A                       | Group B                   | Group C                                        | Group D                     |
-|-------------------------------|---------------------------|------------------------------------------------|-----------------------------|
-| Mathematics                   | Languages                 | Deep Learning                                  | Natural Language Processing |
-| Data Analytics                | DSA                       | Computer Vision                                | Generative AI – Practical   |
-| Machine Learning              | Databases                 | Big Data                                       |                             |
-| Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |                             |
-| Data Science and Engineering  | DevOps                    | Generative AI – Theoretical                    |                             |
+| Group A                       | Group B                   | Group C                                        | 
+|-------------------------------|---------------------------|------------------------------------------------|
+| Mathematics                   | Languages                 | Deep Learning                                  |         
+| Data Analytics                | Data Structures and Algos | Computer Vision                                |    
+| Machine Learning              | Generative AI – Practical | Natural Language Processing                    |                            
+| Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |                             
+| Data Science and Engineering  | DevOps                    | Generative AI – Theoretical                    |                             
+| Big Data                      |                           |                                                |           
+| Databases
 
 ---
+
+
+
 
 ## Week Split
 
 | Day   | Group Focus            |
 |-------|------------------------|
-| Mon   | Group B  + Group D              |
-| Tue   | Group B  + Group D              |
-| Wed   | Group B  + Group D                |
-| Thu   | Group A +  Group C                |
-| Fri   | Group A +  Group C                |
-| Sat   | Group A +  Group C      |
-| Sun   | Group A +  Group C      |
+| Mon   | Group B  + Group A     |
+| Tue   | Group B  + Group A     |
+| Wed   | Group B  + Group A     |
+| Thu   | Group B +  Group C     |
+| Fri   | Group B +  Group C     |
+| Sat   | Group B +  Group C     |
+| Sun   | Group B +  Group C     |

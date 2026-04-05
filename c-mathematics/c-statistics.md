@@ -8,4 +8,4 @@
 * [Advanced Statistics Specialisation - JOHN HOPKINS](https://www.coursera.org/specializations/advanced-statistics-data-science)
 * [Advanced Stats with Entropy and MDPs](https://www.udemy.com/course/probability-statistics-mathematics)
 * [Markov Chains](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
-
+* [Advanced Stats and Math for ML - CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST)

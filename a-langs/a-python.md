@@ -26,6 +26,7 @@
 * [Regex; Indian Pythonista](https://www.youtube.com/watch?v=xp1vX15inBg&list=PLyb_C2HpOQSDxe5Y9viJ0JDqGUCetboxB)
 
 ### Async Programming
+* [Asyncio - Corey Schaefer](https://www.youtube.com/watch?v=oAkLSJNr5zY)
 * [Geeky Shows; OOPs & Threads](https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb)
 * [Multiprocessing; Indian Pythonista](https://www.youtube.com/watch?v=Ju4xkvFm07o&list=PLyb_C2HpOQSDUh4kIJnprJjh5n5Wqsww8)
 * [Multithreading; Indian Pythonista](https://www.youtube.com/watch?v=ZPM8TCz5cd8&list=PLyb_C2HpOQSC-Ncui9S4ncUdaGI2YEhwK)
@@ -38,6 +39,7 @@
 
 ### Packaging
 * [Type Hinting](https://www.youtube.com/watch?v=yScuF1UgGU0)
+* [Type Hinting Advanced](https://www.youtube.com/watch?v=RwH2UzC2rIo)
 * [Structuring Code](https://www.youtube.com/watch?v=6OSpm4uXqDw)
 * [Pytest Framework for Testing; Indian Pythonista](https://www.youtube.com/watch?v=L6N3BgZh2AA&list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [TOML Code Packaging; Real Python](https://www.youtube.com/watch?v=v6tALyc4C10)

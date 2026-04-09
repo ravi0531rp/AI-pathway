@@ -60,12 +60,13 @@
 | Group A                       | Group B                   | Group C                                        | 
 |-------------------------------|---------------------------|------------------------------------------------|
 | Mathematics                   | Languages                 | Deep Learning                                  |         
-| Data Analytics                | Data Structures and Algos | Computer Vision                                |    
-| Machine Learning              | APIs and Microservices | Natural Language Processing                    |                            
-| Sequence Modelling            | DevOps     | Reinforcement Learning                         |                             
-| Data Science and Engineering  |                     | Generative AI – Theoretical                    |                             
-| Big Data                      |                           | Generative AI – Practical                                               |           
-| Databases
+| Data Analytics                | Data Structures and Algos | Computer Vision                                |
+| Sequence Modelling            |                           | Reinforcement Learning                         |                             
+| Data Science and Engineering  |                           | Generative AI – Theoretical                    |                             
+| Big Data                      |                           | Generative AI – Practical                      |           
+| Databases                     |                           | DevOps                                         |
+| APIs and Microservices        |                           | Machine Learning                               |
+|                               |                           | Natural Language Processing                    |                            
 
 ---
 

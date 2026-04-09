@@ -18,6 +18,7 @@
 * [Gemini DeepThink](https://www.youtube.com/watch?v=Nmv4YxpbhU8)
 * [Gemini 3 Pro](https://www.youtube.com/watch?v=PFyccJhbQ6w)
 * [Function Gemma](https://www.youtube.com/watch?v=Zj_cvQKcH4g)
+* [Gemma 4 ✅](https://www.youtube.com/watch?v=5aqF1HVpjdc&t=819s)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)

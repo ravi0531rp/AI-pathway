@@ -11,7 +11,8 @@
 ### From Scratch Series - Advanced
 * [Reasoning LLMs from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
 * [Build Deepseek from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
-* [AutoEncoders & VAEs from Scratch](https://www.youtube.com/watch?v=MLAZu2mRbwk&t=1695s)
+* [AutoEncoders from Scratch](https://www.youtube.com/watch?v=MLAZu2mRbwk)
+* [VAEs from Scratch](https://www.youtube.com/watch?v=VUwAGLM6K_8)
 * [Diffusion LM from Scratch](https://www.youtube.com/watch?v=9Q9qS48PyLA&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf&pp=0gcJCbwEOCosWNin)
 
 ### Build

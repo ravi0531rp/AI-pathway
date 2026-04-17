@@ -57,15 +57,14 @@
 
 ## Topic Groups
 
-| Group A                       | Group B                   | Group C                                        | 
-|-------------------------------|---------------------------|------------------------------------------------|
-| Mathematics                   | Languages                 | Deep Learning                                  |         
-| Data Analytics                | Data Structures and Algos | Computer Vision                                |
+| Group A                       | Group B                   | Group C                                        | Group D                       | 
+|-------------------------------|---------------------------|------------------------------------------------|-------------------------------|
+| Mathematics                   | Languages                 | Deep Learning                                  | Machine Learning         
+| Data Analytics                | Data Structures and Algos | Computer Vision                                | Data Science and Engineering
 | Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |                             
-| Data Science and Engineering  | DevOps                    | Generative AI – Theoretical                    |                             
-| Big Data                      |                           | Generative AI – Practical                      |           
-| Databases                     |                           | Natural Language Processing                    |
-| Machine Learning              |                           |                                                |
+| Big Data                      | DevOps                    | Generative AI – Theoretical                    |                             
+| Databases                     |                           | Generative AI – Practical                      |           
+|                               |                           | Natural Language Processing                    |
 
 ---
 
@@ -74,12 +73,12 @@
 
 ## Week Split
 
-| Day   | Group Focus            |
-|-------|------------------------|
-| Mon   | Group B  + Group C     |
-| Tue   | Group B  + Group C     |
-| Wed   | Group B  + Group C     |
-| Thu   | Group B +  Group C     |
-| Fri   | Group B +  Group A     |
-| Sat   | Group B +  Group A     |
-| Sun   | Group B +  Group A     |
+| Day   | Group Focus                               |
+|-------|-------------------------------------------|
+| Mon   | Group A + Group B + Group C + Group D     |
+| Tue   | Group A + Group B + Group C + Group D     |
+| Wed   | Group A + Group B + Group C + Group D     |
+| Thu   | Group A + Group B + Group C + Group D     |
+| Fri   | Group A + Group B + Group C + Group D     |
+| Sat   | Group A + Group B + Group C + Group D     |
+| Sun   | Group A + Group B + Group C + Group D     |

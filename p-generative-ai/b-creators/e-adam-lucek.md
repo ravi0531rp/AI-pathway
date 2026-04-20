@@ -38,3 +38,4 @@
 * [Making Computer and Browser Use Agents](https://www.youtube.com/watch?v=7li_iCjQ4vk)
 * [Build Deep AI agents](https://www.youtube.com/watch?v=Ly9UDjiOpxg)
 * [Improving AI Agents](https://www.youtube.com/watch?v=ceAWFE7D9bs)
+* [OpenClaw Architecture](https://www.youtube.com/watch?v=bxjmFlopZqc&pp=0gcJCdMKAYcqIYzv)

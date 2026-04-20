@@ -34,6 +34,9 @@
 ### Segmentation
 * [RF-DETR Segmentation](https://www.youtube.com/watch?v=boVmetUahes)
 
+### OCR
+* [Better OCR than Gemini - 0.9B param](https://www.youtube.com/watch?v=_KCXD8vFIYM)
+
 ### Model Evaluation
 * [Model Evaluation](https://www.youtube.com/watch?v=nbCY93BMw0U&pp=0gcJCb0Ag7Wk3p_U)
 * [Evaluate Vision AI Model](https://www.youtube.com/watch?v=1uL7UcwlMUE)

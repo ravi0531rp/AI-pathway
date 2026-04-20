@@ -9,6 +9,7 @@
 * [Dino V3](https://www.youtube.com/watch?v=oGTasd3cliM)
 * [Diffusion Language Models](https://www.youtube.com/watch?v=8BTOoc0yDVA)
 * [Engram - Scalable Memory for LLMs](https://www.youtube.com/watch?v=87Q8nf1XHKA)
+* [Fixing Attention in 2 lines](https://www.youtube.com/watch?v=2eZKT4H9_iQ)
 
 ### Deep Learning
 * [Muon Optimizer](https://www.youtube.com/watch?v=bO5nvE289ec)

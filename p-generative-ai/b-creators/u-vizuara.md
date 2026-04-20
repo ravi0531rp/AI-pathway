@@ -33,6 +33,7 @@
 * [TimesFormers - ViT for Videos](https://www.youtube.com/watch?v=ZAPorSv-Tas)
 * [Contrastive Learning for Vision](https://www.youtube.com/watch?v=TJzu36kqwkE&list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN&index=16&pp=iAQB)
 * [Build NanoVLM](https://www.youtube.com/watch?v=O4i_Uue08AI&list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN&index=15&pp=iAQB)
+* [VLA for Self Driving](https://www.youtube.com/watch?v=Te4MMULPU5w&list=PLPTV0NXA_ZShMNLXSB9dXZanDDs7aaa_8)
 
 ### Robotics
 * [Robotics with Deep Learning](https://www.youtube.com/watch?v=8otn0N8Lwkw&list=PLPTV0NXA_ZSiBlrEX-_KOBbV9Z4htszzo)

@@ -69,17 +69,3 @@
 ---
 
 
-
-
-## Week Split
-
-| Day   | Group Focus            |
-|-------|------------------------|
-| Mon   | Group B +  Group D     |
-| Tue   | Group B  + Group D     |
-| Wed   | Group B  + Group A     |
-| Thu   | Group B  + Group A     |
-| Fri   | Group B  + Group C     |
-| Sat   | Group B  + Group C     |
-| Sun   | Group B  + Group C     |
-

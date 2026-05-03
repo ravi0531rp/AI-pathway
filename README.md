@@ -57,14 +57,13 @@
 
 ## Topic Groups
 
-| Group A                       | Group B                   | Group C                                        | Group D                       | 
-|-------------------------------|---------------------------|------------------------------------------------|-------------------------------|
-| Mathematics                   | Languages                 | Deep Learning                                  | Machine Learning         
-| Data Analytics                | Data Structures and Algos | Computer Vision                                | Data Science and Engineering
-| Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |                             
-| Big Data                      | DevOps                    | Generative AI – Theoretical                    |                             
-| Databases                     |                           | Generative AI – Practical                      |           
-|                               |                           | Natural Language Processing                    |
+| Group A                       | Group B                   | Group C                                        | Group D                       | Group E                       | 
+|-------------------------------|---------------------------|------------------------------------------------|-------------------------------|-------------------------------|
+| Mathematics                   | Languages                 | Deep Learning                                  | Machine Learning              |  Natural Language Processing   
+| Data Analytics                | Data Structures and Algos | Computer Vision                                | Data Science and Engineering  |  Generative AI – Practical 
+| Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |       | |                      
+| Big Data                      | DevOps                    | Generative AI Theory                           |       | |                      
+| Databases                     |                           |                                                |       | |   
 
 ---
 

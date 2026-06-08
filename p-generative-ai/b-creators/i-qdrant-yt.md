@@ -15,6 +15,7 @@
 * [New in Qdrant 1.14](https://www.youtube.com/watch?v=nBqlqR8yM4Y)
 * [Multi Vector Search](https://www.youtube.com/watch?v=WXEf6K6DBq8&list=PL9IXkWSmb36-VVokcL5UGI9lGzKLan0F1)
 * [Advanced Vector Search](https://www.youtube.com/watch?v=9B7RrmQCQeQ&list=PL9IXkWSmb369tDKcdBf-NxbjcCHcx-9Al)
+* [Qdrant + TurboQuant](https://www.youtube.com/watch?v=KawnBQWmtcU)
 
 ### RAG
 * [Finding the correct Embedding Model](https://www.youtube.com/watch?v=ZUIAmtribPo)
@@ -29,6 +30,8 @@
 * [CrewAI and Qdrant](https://www.youtube.com/watch?v=soGB3UowTZ0)
 * [N8N and Qdrant](https://www.youtube.com/watch?v=_BQTnXpuH-E)
 * [Qdrant + MCP](https://www.youtube.com/watch?v=mZK2a_4jgwo)
+* [Qdrant Agent Skills](https://www.youtube.com/watch?v=vpbPhiXQ9Ks)
+* [Biomedical Copilot with Qdrant + Neo4j](https://www.youtube.com/watch?v=10g1iJnfLWQ)
 
 ### LLM and Embeddings
 * [Fine Tune Embeddings](https://www.youtube.com/watch?v=iiNZdbeP3n4)

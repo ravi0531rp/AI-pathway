@@ -13,4 +13,5 @@
 
 ### Deep Learning
 * [Muon Optimizer](https://www.youtube.com/watch?v=bO5nvE289ec)
-
+* [Most Important Layer in NNs](https://www.youtube.com/watch?v=JHl_gwVoh-k)
+* [AI's most important function](https://www.youtube.com/watch?v=JRaPNrpsQ9s&t=540s&pp=0gcJCTkLAYcqIYzv)

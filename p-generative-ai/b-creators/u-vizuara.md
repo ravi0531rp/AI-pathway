@@ -27,16 +27,11 @@
 * [vLLM](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShQvMQwbrvXy1UtI1DiGlu7)
 
 ### Vision Models
-* [Transformers in Vision](https://www.youtube.com/watch?v=DeSIAB3qD9U)
-* [DETR](https://www.youtube.com/watch?v=zdMDvJhyrrc)
-* [DeiT, ViT and Swin Transformers](https://www.youtube.com/watch?v=H5NT-W9y6RM)
-* [TimesFormers - ViT for Videos](https://www.youtube.com/watch?v=ZAPorSv-Tas)
-* [Contrastive Learning for Vision](https://www.youtube.com/watch?v=TJzu36kqwkE&list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN&index=16&pp=iAQB)
-* [Build NanoVLM](https://www.youtube.com/watch?v=O4i_Uue08AI&list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN&index=15&pp=iAQB)
-* [VLA for Self Driving](https://www.youtube.com/watch?v=Te4MMULPU5w&list=PLPTV0NXA_ZShMNLXSB9dXZanDDs7aaa_8)
+* [Transformers for Vision and Multimodal LLMs -  Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN)
 
 ### Robotics
 * [Robotics with Deep Learning](https://www.youtube.com/watch?v=8otn0N8Lwkw&list=PLPTV0NXA_ZSiBlrEX-_KOBbV9Z4htszzo)
+* [VLA for Autonomous Driving](https://www.youtube.com/watch?v=fnaTwld5tI8&list=PLPTV0NXA_ZShMNLXSB9dXZanDDs7aaa_8)
 
 ### Papers
 * [Reading Papers](https://www.youtube.com/watch?v=rz0gtfWFmrs&list=PLPTV0NXA_ZSjwuplBzByj1Ly-e5ld_dK9)

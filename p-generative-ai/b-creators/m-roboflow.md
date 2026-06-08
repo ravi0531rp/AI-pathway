@@ -14,6 +14,8 @@
 * [Fine-Tune Florence 2 (Part 2)](https://www.youtube.com/watch?v=i3KjYgxNH6w&t=2s)
 * [Fine-Tune SmolVLM2](https://www.youtube.com/watch?v=qLPInUmH9xE)
 * [Depth Anything](https://www.youtube.com/watch?v=lqPf3198wjw)
+* [Continuous Learning loops](https://www.youtube.com/watch?v=8zQCG5R_byI)
+* [Neural Architecture Search](https://www.youtube.com/watch?v=ZtGXkuo1qiE)
 
 ### Dataset Creation & Labeling
 * [Use Semantic Search to Create Datasets](https://www.youtube.com/watch?v=BZI5Tyir1tc)
@@ -22,7 +24,9 @@
 ### Practical Applications
 * [Measuring Objects](https://www.youtube.com/watch?v=FQY7TSHfZeI)
 * [Run Vision Models on Video Streams](https://www.youtube.com/watch?v=ttMsWQej53o&pp=0gcJCb0Ag7Wk3p_U)
-
+* [AI for Sports](https://www.youtube.com/watch?v=PIpqZNaI3NY)
+* [Build a Visual AI Agent to control computer](https://www.youtube.com/watch?v=Y8CR6IzLDaw&pp=0gcJCSgLAYcqIYzv)
+* [Roboflow MCP](https://www.youtube.com/watch?v=wgp6If3wi0o)
 
 ### Object Detection Models
 * [RF-DETR](https://www.youtube.com/watch?v=Mlcap4KGddg)
@@ -30,6 +34,7 @@
 * [YOLOv12 Training](https://www.youtube.com/watch?v=fksJmIMIfXo)
 * [YOLOv26 Fine-Tuning](https://www.youtube.com/watch?v=sczVknSvzh4&pp=0gcJCZEKAYcqIYzv)
 * [Multi Object Tracking](https://www.youtube.com/watch?v=u0k2dTZ0vfs)
+* [SORT and OC-SORT Tracking](https://www.youtube.com/watch?v=rLl9DiM1tCc)
 
 ### Segmentation
 * [RF-DETR Segmentation](https://www.youtube.com/watch?v=boVmetUahes)

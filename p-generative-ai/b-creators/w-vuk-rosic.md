@@ -2,7 +2,7 @@
 
 
 ### Codes
-* [COde Deepseek](https://www.youtube.com/watch?v=TfEG0TwueTs)
+* [Code Deepseek](https://www.youtube.com/watch?v=TfEG0TwueTs)
 
 ### Research Paper From Scratch
 * [Write and Publish a Paper Series](https://www.youtube.com/watch?v=O2yAMJu8LpI&list=PL-9_KFQd8ssIjSusRNmbLKjIE5bb-bLwu)
@@ -10,6 +10,9 @@
 * [Mamba Research](https://www.youtube.com/watch?v=Hx8-zjO68ls&list=PL-9_KFQd8ssLruDSw2JkziQB4ZxS_i8Im)
 
 ### Upcoming Trends
-* [mHC](https://www.youtube.com/watch?v=dtoKrkZwgsg&t=244s)
+* [mHC](https://www.youtube.com/watch?v=dtoKrkZwgsg)
+* [Blend Previous Token in Training](https://www.youtube.com/watch?v=Xp5rTu7DiIc)
 
-
+### Deep Learning Core
+* [Muon](https://www.youtube.com/watch?v=H76Ci01m_14)
+* [GPU Programming](https://www.youtube.com/watch?v=F5v_7OCwKHs)

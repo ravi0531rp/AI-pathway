@@ -6,6 +6,7 @@
 * [MCP with Flask](https://www.youtube.com/watch?v=mhdGVbJBswA)
 * [Built Multi agent research systems](https://www.youtube.com/watch?v=0HljLKVdtjo)
 * [Deep Research Agent from Scratch](https://www.youtube.com/watch?v=vHBRmXpDIFY)
+* [Pi Agent Harness](https://www.youtube.com/watch?v=gTeujlv8qK0)
 
 ### RAG
 * [Advanced RAG with Llamaindex metadata extraction](https://www.youtube.com/watch?v=yzPQaNhuVGU)

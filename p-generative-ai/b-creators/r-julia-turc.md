@@ -19,7 +19,12 @@
 * [GGUF reverse engineered](https://www.youtube.com/watch?v=vW30o4U9BFE)
 * [Why Transformers > CNNs in Vision](https://www.youtube.com/watch?v=KnCRTP11p5U)
 * [Diffusion LLMs](https://www.youtube.com/watch?v=SFi9KsnidNc)
-
+* [Why are Diffusion Models fast](https://www.youtube.com/watch?v=-VGeHZqOk_s)
 
 ### Agents
 * [Openai Operator](https://www.youtube.com/watch?v=1xxvHBqt5cU)
+
+
+### SOTA Research
+* [World Models](https://www.youtube.com/watch?v=MqjvfJTCuqw)
+* [Hardware reshaping LLM Design](https://www.youtube.com/watch?v=BSzhrZOp2x8)

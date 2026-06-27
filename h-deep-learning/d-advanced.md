@@ -9,3 +9,6 @@
 ### CUDA
 * [Mastering GPU parallel programming with CUDA](https://www.udemy.com/course/mastering-gpu-parallel-programming-with-cuda/learn/)
 * [CUDA - FCC](https://www.youtube.com/watch?v=86FAWCzIe_4&t=6727s&pp=ygUQY3VkYSBwcm9ncmFtbWluZw%3D%3D)
+
+### Serving
+* [Triton Inference Server](https://www.youtube.com/playlist?list=PLThJtS7RDkOeglmeeUCZZonbfcDOtsvAq)

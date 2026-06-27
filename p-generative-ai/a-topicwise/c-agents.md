@@ -7,3 +7,6 @@
 * [MCP Basics](https://www.youtube.com/watch?v=tzrwxLNHtRY&pp=ygUVTUNQIHNlcnZlciBhbmQgY2xpZW50)
 * [MCP Client + Server in Depth](https://www.youtube.com/watch?v=MDBG2MOp4Go)
 * [Build MCP Server and Client](https://www.youtube.com/watch?v=-WogqfxWBbM&pp=ygUUTUNQIGNsaWVudCBpbiBweXRob24%3D)
+
+### Evals
+* [Ml flow Eval](https://www.youtube.com/playlist?list=PLThJtS7RDkOeCMZvB5okI4zeqkwUP8MlB)

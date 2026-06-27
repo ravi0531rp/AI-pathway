@@ -19,6 +19,7 @@
 * [Gemini 3 Pro](https://www.youtube.com/watch?v=PFyccJhbQ6w)
 * [Function Gemma](https://www.youtube.com/watch?v=Zj_cvQKcH4g)
 * [Gemma 4 ✅](https://www.youtube.com/watch?v=5aqF1HVpjdc&t=819s)
+* [GLM 5.2](https://www.youtube.com/watch?v=10C8VMN3hjU)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)
@@ -47,6 +48,7 @@
 * [SmolLM v3 - Router LLM](https://www.youtube.com/watch?v=T4XDMeoyvU0)
 * [Open Responses - New API](https://www.youtube.com/watch?v=b-BzeHF6WLA)
 * [Google Universal Commerce Protocol](https://www.youtube.com/watch?v=yDKpF6CjBUo)
+* [Qwen Agentworld](https://www.youtube.com/watch?v=VzmMQWRhlBw&pp=0gcJCUELAYcqIYzv)
 
 ### RAG
 * [Create better prompts](https://www.youtube.com/watch?v=IVRr3zvXC0Q)

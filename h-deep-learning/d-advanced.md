@@ -7,4 +7,5 @@
 * [Pieter Abbeel Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)
 
 ### CUDA
-* [Mastering GPU parallel programming with CUDA](https://github.com/ravi0531rp/AI-pathway/blob/main/p-generative-ai/a-topicwise/a-llm-inference.md)
+* [Mastering GPU parallel programming with CUDA](https://www.udemy.com/course/mastering-gpu-parallel-programming-with-cuda/learn/)
+* [CUDA - FCC](https://www.youtube.com/watch?v=86FAWCzIe_4&t=6727s&pp=ygUQY3VkYSBwcm9ncmFtbWluZw%3D%3D)

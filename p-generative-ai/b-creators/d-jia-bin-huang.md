@@ -14,6 +14,7 @@
 * [mHC - Residual COnnections Upgrade](https://www.youtube.com/watch?v=jYn_1PpRzxI)
 * [Fixing Attention in 2 lines](https://www.youtube.com/watch?v=2eZKT4H9_iQ)
 * [JEPA](https://www.youtube.com/watch?v=gVEr2cnDE_8)
+* [How Small Models Learn to Think Like Giants](https://www.youtube.com/watch?v=YH0YXgDWZXA)
   
 ### Deep Learning
 * [Muon Optimizer](https://www.youtube.com/watch?v=bO5nvE289ec)

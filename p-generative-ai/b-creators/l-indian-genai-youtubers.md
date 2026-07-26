@@ -32,3 +32,4 @@
 * [Ollama Masterclass](https://www.youtube.com/watch?v=YcAYmIFtA0o)
 * [Deep Research Agent](https://www.youtube.com/watch?v=Ou_v9lk0rxg)
 * [Claude Code](https://www.youtube.com/watch?v=K_KIQA849cs&list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W)
+* [LLM Evals](https://www.youtube.com/watch?v=6W92_t9FveA&list=PLEneLIDJFpcA)

@@ -67,4 +67,12 @@
 
 ---
 
+## 3-Week Study Schedule
+
+| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+|------|---------|----------|-----------|----------|--------|----------|--------|
+| **Week 1** | Group A | Group A | Group A | Group A | Group B | Group B | Group B |
+| **Week 2** | Group B | Group C | Group C | Group C | Group C | Group C | Group C |
+| **Week 3** | Group D | Group D | Group D | Group D | Group E | Group E | Group E |
+
 

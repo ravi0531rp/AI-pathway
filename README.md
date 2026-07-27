@@ -60,12 +60,14 @@
 | Group A                       | Group B                   | Group C                                        | Group D                       | Group E                       | 
 |-------------------------------|---------------------------|------------------------------------------------|-------------------------------|-------------------------------|
 | Mathematics                   | Languages                 | Deep Learning                                  | Machine Learning              |  Natural Language Processing   
-| Data Analytics                | Data Structures and Algos | Computer Vision                                | Data Science and Engineering  |  Generative AI – Practical 
-| Sequence Modelling            | APIs and Microservices    | Reinforcement Learning                         |       | |                      
-| Big Data                      | DevOps                    | Generative AI Theory                           |       | |                      
+| Data Analytics                | APIs and Microservices | Computer Vision                                | Data Science and Engineering  |  Generative AI – Practical 
+| Sequence Modelling            | DevOps     | Reinforcement Learning                         |       | |                      
+| Big Data                      |                    | Generative AI Theory                           |       | |                      
 | Databases                     |                           |                                                |       | |   
 
 ---
+
+Note : DSA Daily 1 video/session.
 
 ## 3-Week Study Schedule
 

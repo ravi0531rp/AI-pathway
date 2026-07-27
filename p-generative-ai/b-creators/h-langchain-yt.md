@@ -38,6 +38,7 @@
 * [Teaching Agents to Learn from Experience](https://www.youtube.com/watch?v=6XXH5XecVp4)
 * [Build a voice Assistant](https://www.youtube.com/watch?v=kDPzdyX76cg)
 * [Debug Voice Assistant](https://www.youtube.com/watch?v=0FmbIgzKAkQ)
+* [Loop Engineering](https://www.youtube.com/watch?v=jPPiZ22DY3g)
 
 ### Use Cases
 * [Agent EVals - Lyft](https://www.youtube.com/watch?v=UVeeNW_z068)

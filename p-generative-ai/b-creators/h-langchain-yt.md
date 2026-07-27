@@ -42,3 +42,6 @@
 
 ### Use Cases
 * [Agent EVals - Lyft](https://www.youtube.com/watch?v=UVeeNW_z068)
+
+### Website
+* [Courses](https://academy.langchain.com/collections)

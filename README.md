@@ -61,20 +61,20 @@
 |-------------------------------|---------------------------|------------------------------------------------|-------------------------------|-------------------------------|
 | Mathematics                   | Languages                 | Deep Learning                                  | Machine Learning              |  Natural Language Processing   
 | Data Analytics                | APIs and Microservices    | Computer Vision                                | Data Science and Engineering  |  Generative AI – Practical 
-| Sequence Modelling            | DevOps                    | Reinforcement Learning                         |                               |                                 
-| Big Data                      |                           | Generative AI Theory                           |                               |                                  
-| Databases                     |                           |                                                |                               |    
+| Sequence Modelling            | DevOps                    | Reinforcement Learning                         | Databases                     |  Big Data                        
+|                               |                           | Generative AI Theory                           |                               |                                  
 
 ---
 
 Note : DSA Daily 1 video/session.
-
-## 3-Week Study Schedule
-
-| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-|------|---------|----------|-----------|----------|--------|----------|--------|
-| **Week 1** | Group A | Group A | Group B | Group B | Group C | Group C | Group C |
-| **Week 2** | Group C | Group D | Group D | Group E | Group E | Group A | Group A |
-| **Week 3** | Group B | Group B | Group C | Group C | Group D | Group D | Group E |
+| Day | Topics
+|-------------------------------|---------------------------|
+| Monday | DSA + Group A + Group D
+| Tuesday | DSA + Group B + Group C
+| Wednesday | DSA + Group A + Group E
+| Thursday | DSA + Group B + Group C
+| Friday | DSA + Group D + Group E
+| Saturday | DSA + Group A + Group B
+| Sunday | DSA + Group C + Group D
 
 

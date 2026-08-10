@@ -1,5 +1,11 @@
 ## [Jia Bin Huang](https://www.youtube.com/@jbhuang0604/videos)
 
+### Deep Learning
+* [Muon Optimizer](https://www.youtube.com/watch?v=bO5nvE289ec)
+* [Most Important Layer in NNs](https://www.youtube.com/watch?v=JHl_gwVoh-k)
+* [AI's most important function](https://www.youtube.com/watch?v=JRaPNrpsQ9s&t=540s&pp=0gcJCTkLAYcqIYzv)
+
+
 ### LLMs Fundamentals
 * [Attention Residuals](https://www.youtube.com/watch?v=LSHTkbnmzy4)
 * [MoE Explained](https://www.youtube.com/watch?v=0QQlYR1r6pQ)
@@ -7,6 +13,7 @@
 * [Dino V3](https://www.youtube.com/watch?v=oGTasd3cliM)
 * [Diffusion Language Models](https://www.youtube.com/watch?v=8BTOoc0yDVA)
 * [Engram - Scalable Memory for LLMs](https://www.youtube.com/watch?v=87Q8nf1XHKA)
+* [Deepseek v4 Secret](https://www.youtube.com/watch?v=87Q8nf1XHKA&t=4s)
 
 ### LLM Innovations
 * [LoRA](https://www.youtube.com/watch?v=U80tjcThl9Q&t=2s)
@@ -15,8 +22,5 @@
 * [Fixing Attention in 2 lines](https://www.youtube.com/watch?v=2eZKT4H9_iQ)
 * [JEPA](https://www.youtube.com/watch?v=gVEr2cnDE_8)
 * [How Small Models Learn to Think Like Giants](https://www.youtube.com/watch?v=YH0YXgDWZXA)
+* [On Policy Distillation](https://www.youtube.com/watch?v=YH0YXgDWZXA)
   
-### Deep Learning
-* [Muon Optimizer](https://www.youtube.com/watch?v=bO5nvE289ec)
-* [Most Important Layer in NNs](https://www.youtube.com/watch?v=JHl_gwVoh-k)
-* [AI's most important function](https://www.youtube.com/watch?v=JRaPNrpsQ9s&t=540s&pp=0gcJCTkLAYcqIYzv)

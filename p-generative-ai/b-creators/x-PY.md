@@ -2,10 +2,7 @@
 
 
 ### LLMs Practical
-* [Engineering behind Inference - Memory Wall](https://www.youtube.com/watch?v=ENkuf_2zbkc)
-* [Engineering behind Inference - Inside GPU](https://www.youtube.com/watch?v=cbEhkd4ZeKs)
-* [Engineering behind Inference - Kernels & Memory](https://www.youtube.com/watch?v=30IRJQ49M2g)
-* 
+* [Engineering Behind Inference Playlist](https://www.youtube.com/watch?v=ENkuf_2zbkc&list=PLqO45Dg1pMhlDBZTMqVL2GU-14xYip2y2)
 * [Prompt Caching](https://www.youtube.com/watch?v=H-k7oYjwruM)
 * [Training a Trillion param model](https://www.youtube.com/watch?v=yn4GGAtZ7QE)
 * [Reverse Engineer LLMs](https://www.youtube.com/watch?v=tDzqCDEYc0A)

@@ -20,6 +20,7 @@
 * [Context Engineering and Build Apps](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj-E8A1DBvbWIYGxC46u-Hd)
 * [Openclaw RL from scratch](https://www.youtube.com/watch?v=ZtN6Gg_bdJE)
 * [Claude Code from Scratch](https://www.youtube.com/watch?v=81YzYPZ0y0A&list=PLPTV0NXA_ZShnka8uVzF3mSvZdilfiGWG)
+* [World Model From Scratch](https://www.youtube.com/watch?v=7l7rBM784pg&list=PLahzD_BXtne4)
 
 ### Diffusion
 * [The principles of Diffusion Models](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShSUHKLhdHAdAw5oM9vM1Yf)

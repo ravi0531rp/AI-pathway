@@ -1,5 +1,5 @@
 ## [Langchain Youtube](https://www.youtube.com/@LangChain/videos)
-
+## [Langchain Academy](https://academy.langchain.com/collections)
 
 
 ### Langsmith and langgraph

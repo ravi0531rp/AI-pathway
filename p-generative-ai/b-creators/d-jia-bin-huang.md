@@ -24,3 +24,4 @@
 * [How Small Models Learn to Think Like Giants](https://www.youtube.com/watch?v=YH0YXgDWZXA)
 * [On Policy Distillation](https://www.youtube.com/watch?v=YH0YXgDWZXA)
 * [Kimi K3 MoE Optimizations](https://www.youtube.com/watch?v=vXV2ltVdLMQ)
+* [AI Hidden Reasoning](https://www.youtube.com/watch?v=P1v1-2CCKD0)

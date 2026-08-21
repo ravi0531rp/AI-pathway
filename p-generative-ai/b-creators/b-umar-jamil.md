@@ -16,12 +16,13 @@
 * [VAEs](https://www.youtube.com/watch?v=iwEzwTTalbg&t=3s&pp=0gcJCb0Ag7Wk3p_U)
 * [How diffusion models work](https://www.youtube.com/watch?v=I1sPXkm2NH4)
 
-### LLMs from Scratch
+### From Scratch Series
 * [Coding a transformer from scratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
 * [Paligemma coded](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 * [Mistral - Sliding Attention](https://www.youtube.com/watch?v=UiX8K-xBUpE)
 * [Stable Diffusion](https://www.youtube.com/watch?v=ZBKpAp_6TGI)
 * [Llama2](https://www.youtube.com/watch?v=oM4VmoabDAI)
+* [Building Distributed Training Framework from scratch](https://youtu.be/XoGvCBRnwLs)
 
 ### Deep learning
 * [Pytorch Distributed](https://www.youtube.com/watch?v=toUSzwR0EV8)

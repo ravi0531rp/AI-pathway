@@ -14,6 +14,7 @@
 * [Finetune Reasoning LLMs with GRPO](https://www.youtube.com/watch?v=yGkJj_4bjpE)
 * [SLM Model Alignment](https://www.youtube.com/watch?v=qQwg2nFtZ1Y)
 * [Train a Reasoning model on unverifiable Task](https://www.youtube.com/watch?v=kxypcfrkUBI&pp=0gcJCfkLAYcqIYzv)
+* [On Policy Distillation](https://youtu.be/ARRD9itTMgw)
   
 ### RAG + Agents
 * [DsPY](https://www.youtube.com/watch?v=5Bym0ffALaU&t=2s)

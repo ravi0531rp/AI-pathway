@@ -20,6 +20,7 @@
 * [Function Gemma](https://www.youtube.com/watch?v=Zj_cvQKcH4g)
 * [Gemma 4 ✅](https://www.youtube.com/watch?v=5aqF1HVpjdc&t=819s)
 * [GLM 5.2](https://www.youtube.com/watch?v=10C8VMN3hjU)
+* [Qwen 3.8 27b](https://www.youtube.com/watch?v=PTuGGdDuyPI)
 
 ### LLM Innovations
 * [SmolDocling - OCR](https://www.youtube.com/watch?v=kPKRJeLMq_M)

@@ -28,7 +28,7 @@
 
 * [Langchain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
 * [Langgraph](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
-* [MCP](https://www.youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0)
+* [MCP ✅](https://www.youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0)
 * [Ollama Masterclass](https://www.youtube.com/watch?v=YcAYmIFtA0o)
 * [Deep Research Agent](https://www.youtube.com/watch?v=Ou_v9lk0rxg)
 * [Claude Code](https://www.youtube.com/watch?v=K_KIQA849cs&list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W)

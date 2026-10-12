@@ -8,6 +8,7 @@
 * [Build a SLM from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShuk6u31pgjHjFO2eS9p5EV)
 * [Calculate Weights in GPT](https://www.youtube.com/watch?v=VEmrEo0ZDw8&list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN&index=20&pp=iAQB)
 * [LLM Interview Series](https://www.youtube.com/watch?v=CxRGWfcGVbs&list=PLcN_8jVCNVcc)
+* [The Attention Family](https://www.youtube.com/watch?v=NmyR0gCByoU&list=PLVomdvPuJ1po)
 
 ### From Scratch Series - Advanced
 * [Reasoning LLMs from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)

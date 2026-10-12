@@ -14,6 +14,7 @@
 * [Diffusion Language Models](https://www.youtube.com/watch?v=8BTOoc0yDVA)
 * [Engram - Scalable Memory for LLMs](https://www.youtube.com/watch?v=87Q8nf1XHKA)
 * [Deepseek v4 Secret](https://www.youtube.com/watch?v=87Q8nf1XHKA&t=4s)
+* [Why AI does not read words](https://www.youtube.com/watch?v=XmsgfvBqLXA)
 
 ### LLM Innovations
 * [LoRA](https://www.youtube.com/watch?v=U80tjcThl9Q&t=2s)
@@ -25,3 +26,7 @@
 * [On Policy Distillation](https://www.youtube.com/watch?v=YH0YXgDWZXA)
 * [Kimi K3 MoE Optimizations](https://www.youtube.com/watch?v=vXV2ltVdLMQ)
 * [AI Hidden Reasoning](https://www.youtube.com/watch?v=P1v1-2CCKD0)
+* [DeepSeek Splits Transformers into two](https://www.youtube.com/watch?v=qkngB1Q46CY)
+* [AI Editing its own memory](https://www.youtube.com/watch?v=aYGN4yDYDvk&pp=0gcJCTcMAYcqIYzv)
+
+

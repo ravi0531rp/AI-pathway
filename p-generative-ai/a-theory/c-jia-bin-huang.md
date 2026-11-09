@@ -15,6 +15,7 @@
 * [Engram - Scalable Memory for LLMs](https://www.youtube.com/watch?v=87Q8nf1XHKA)
 * [Deepseek v4 Secret](https://www.youtube.com/watch?v=87Q8nf1XHKA&t=4s)
 * [Why AI does not read words](https://www.youtube.com/watch?v=XmsgfvBqLXA)
+* [Fixing broken Softmax](https://www.youtube.com/watch?v=dYxEmKbZfr4)
 
 ### LLM Innovations
 * [LoRA](https://www.youtube.com/watch?v=U80tjcThl9Q&t=2s)
@@ -29,4 +30,10 @@
 * [DeepSeek Splits Transformers into two](https://www.youtube.com/watch?v=qkngB1Q46CY)
 * [AI Editing its own memory](https://www.youtube.com/watch?v=aYGN4yDYDvk&pp=0gcJCTcMAYcqIYzv)
 
+## Practicals
+* [1000s of GPUs working together for Training](https://www.youtube.com/watch?v=SlNxNpaNPdA)
+* [ZeRO and FSDP](https://www.youtube.com/watch?v=nx5yfCa4W98)
+* [LLM serving](https://www.youtube.com/watch?v=T4SRu-trimA)
+* [Editing NN weights with LLMs](https://www.youtube.com/watch?v=r8sZgPx4jYA)
+* [Quantization : How NNs survive fewer bits](https://www.youtube.com/watch?v=VZfuShX693Q)
 

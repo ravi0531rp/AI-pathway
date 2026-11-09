@@ -16,6 +16,7 @@
 * [AutoEncoders from Scratch](https://www.youtube.com/watch?v=MLAZu2mRbwk)
 * [VAEs from Scratch](https://www.youtube.com/watch?v=VUwAGLM6K_8)
 * [Diffusion LM from Scratch](https://www.youtube.com/watch?v=9Q9qS48PyLA&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf&pp=0gcJCbwEOCosWNin)
+* [System One Model from scratch](https://www.youtube.com/watch?v=vEpkc44bHVQ&t=1s)
 
 ### Build
 * [Context Engineering and Build Apps](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj-E8A1DBvbWIYGxC46u-Hd)
@@ -28,6 +29,8 @@
 
 ### LLM inference
 * [vLLM](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShQvMQwbrvXy1UtI1DiGlu7)
+* [vLLM + SGlang Intro](https://www.youtube.com/watch?v=vM3kzJIPvvw)
+* [Journey of a Token](https://www.youtube.com/watch?v=IDjyrXKsC5U)
 
 ### Vision Models
 * [Transformers for Vision and Multimodal LLMs -  Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN)
@@ -38,3 +41,8 @@
 
 ### Papers
 * [Reading Papers](https://www.youtube.com/watch?v=rz0gtfWFmrs&list=PLPTV0NXA_ZSjwuplBzByj1Ly-e5ld_dK9)
+
+### Weight Space Programming
+* [Intro](https://www.youtube.com/watch?v=cAGCH19xgU8)
+* [Experiments with Weights](https://www.youtube.com/watch?v=DQNfenSftHU)
+
